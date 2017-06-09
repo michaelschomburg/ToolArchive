@@ -1,0 +1,7 @@
+.content{
+      height: 100vh;
+      padding-top: 13vh;
+      /*padding-top: 100px;*/
+      /*background-color: green;*/
+      display: flex;
+}

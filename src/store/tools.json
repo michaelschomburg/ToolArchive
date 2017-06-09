@@ -1,0 +1,189 @@
+[
+  {   "projects": ["Pages Website"],
+      "developer": ["Amir Houieh", "Gabor Kerekes"],
+      "name": "pages-gmail-robot",
+      "updated_on": "2017-05-17T13:18:28.227444+00:00",
+      "created_on": "2015-10-19T10:10:19.236358+00:00",
+      "slug": "pages-gmail-robot",
+      "description": "",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/pages-gmail-robot"
+  },
+  {
+      "projects": ["Pages Website"],
+      "developer": ["Amir Houieh", "Gabor Kerekes"],
+      "name": "Pages-Pdf",
+      "readme": "### What is this repository for? ###\n\npdf renderer using electron\n\nnecessary, because wkhtmltopdf does not support `@pages` rules, which are essential for generating layouts for print-on-demand",
+      "updated_on": "2017-03-31T12:50:01.107567+00:00",
+      "created_on": "2016-09-27T13:07:28.868832+00:00",
+      "slug": "pages-pdf",
+      "description": "",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/pages-pdf"
+  },
+  {
+      "developer": "Jakob Schlötter",
+      "projects": ["knowledgebase"],
+      "name": "gulp-webapp-starter",
+      "readme": "Gulp Web Starter\n\n## what?\na web starter repository.\nnothing fancy.\nupside: it works.\n\n## why?\ni couldn't get any of the other webapp starters to run with the installation instructions provided.\n\n## installation\n```shell\nnpm install\ngulp\nopen http://localhost:9000/\n```",
+      "updated_on": "2016-10-18T13:28:13.020995+00:00",
+      "created_on": "2016-10-18T13:21:16.672125+00:00",
+      "slug": "gulp-webapp-starter",
+      "description": "",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/gulp-webapp-starter"
+  },
+
+  {
+      "developer": "Jakob Schlötter",
+      "name": "RaspberryPiSetup",
+      "updated_on": "2016-09-08T17:23:38.862676+00:00",
+      "created_on": "2016-08-11T13:39:17.350465+00:00",
+      "readme": "Sets-up a raspberry pi for permanent installations to prevent file corruption in case of a power shortage. It also has implemented a routine of how to run your custom applications",
+      "slug": "raspberrypisetup",
+      "description": "Setsup a respberry pi for permanent instalations to prevent file corruption in case of a power shortage. It also has implemented a routine of how to run your custome applications",
+      "language": "shell",
+      "href": "https://bitbucket.org/LUSTlab/raspberrypisetup",
+      "projects": ["Vlisco 1:1–Un à Un","Little Babylon"]
+  },
+  {
+      "projects": ["Karel Martens Installation"],
+      "developer": "Edwin Jakobs",
+      "name": "glyphplay",
+      "readme": "Description is not written yet",
+      "updated_on": "2017-05-19T12:39:01.195315+00:00",
+      "created_on": "2017-03-06T13:16:23.099098+00:00",
+      "slug": "glyphplay",
+      "description": "",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/glyphplay"
+  },
+
+  {
+      "projects": ["The Future devouring the past","Audi25","Little Babylon"],
+      "developer": "Jakob Schlötter",
+      "name": "scCore",
+      "readme":"This is a collection of classes and methods to use in supercollider in sound.",
+      "updated_on": "2017-01-16T14:24:37.559059+00:00",
+      "created_on": "2016-09-19T15:17:03.436987+00:00",
+      "slug": "sccore",
+      "description": "This is a collection of classes and methods to use in supercollider in sound.",
+      "language": "supercollider",
+      "href": "https://bitbucket.org/LUSTlab/sccore"
+  },
+  {
+      "projects": ["The Future devouring the past"],
+      "name": "SensorOSC",
+      "updated_on": "2017-01-25T11:39:47.778231+00:00",
+      "readme":"A tool to reade sensor data from Smartphones and broadcast it to the network",
+      "created_on": "2016-11-22T11:59:29.036179+00:00",
+      "slug": "sensorosc",
+      "description": "A tool to read sensor data from smartphones and broadcast it to the network",
+      "language": "unityscript",
+      "href": "https://bitbucket.org/LUSTlab/sensorosc"
+  },
+  {
+      "projects":["The Future devouring the past", "Audi25", "Little Babylon"],
+      "developer":"Jakob Schlötter",
+      "name": "oscNet",
+      "readme": "A simple java library to send an recieve osc messages. Which are standardized messages send through the network ",
+      "updated_on": "2017-05-02T13:01:17.741867+00:00",
+      "created_on": "2017-05-02T13:00:40.032612+00:00",
+      "slug": "oscnet",
+      "description": "",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/oscnet"
+  },
+
+  {
+      "projects":["Camera postura"],
+      "developer":"Floris",
+      "name": "NFF Editor",
+      "readme": " A tool to create motion capture data for camera postura \nMake in root the following writable folders:\n\n/clips\n/films\n/stills\n/zip\n",
+      "updated_on": "2014-10-01T09:10:31.295606+00:00",
+      "created_on": "2014-09-09T14:07:14.960849+00:00",
+      "slug": "nff-editor",
+      "description": "",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/nff-editor"
+  },
+
+  {
+      "projects":["knowledgebase"],
+      "developer": "Unknown",
+      "name": "google-image-search",
+      "updated_on": "2015-10-28T10:06:51.753152+00:00",
+      "created_on": "2015-10-28T10:06:09.851450+00:00",
+      "slug": "google-image-search",
+      "readme": "This tool lets you use google image search through java. In case if you want to implement in an application",
+      "language": "java",
+      "href": "https://bitbucket.org/LUSTlab/google-image-search"
+  },
+
+  {   "developer":"Jakob Schlötter",
+      "projects":["Little Babylon"],
+      "name": "zandvliet-ledcontroller",
+      "updated_on": "2015-11-20T15:24:23.862031+00:00",
+      "created_on": "2015-08-17T09:19:44.044062+00:00",
+      "slug": "zandvliet-ledcontroller",
+      "readme": "first sketchout of zandvliet based on universallightcontroller. control large amounts of ledstrips with java and microcontrollers",
+      "language": "java",
+      "href": "https://bitbucket.org/LUSTlab/zandvliet-ledcontroller"
+  },
+
+  {   "developer":"Jakob Schlöter",
+      "projects":["Hubbub"],
+      "name": "soundplayer",
+      "updated_on": "2016-09-23T17:12:46.398804+00:00",
+      "created_on": "2016-09-22T08:34:58.594205+00:00",
+      "slug": "soundplayer",
+      "description": "play sounds in java",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/soundplayer"
+  },
+
+  {   "projects":["Hubbub"],
+      "developer":"Jakob Schlötter",
+      "name": "cor-v2",
+      "updated_on": "2016-10-04T11:59:48.603880+00:00",
+      "created_on": "2016-05-01T18:18:47.605915+00:00",
+      "slug": "cor-v2",
+      "description": "webapp as native app in ios and android with questionaires to collect user data",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/cor-v2"
+  },
+
+
+  {   "projects":["WTHX"],
+      "developer":["Jakob Schlötter", "Gabor Kerekes"],
+      "name": "mailgunMailing",
+      "updated_on": "2013-09-09-13T17:33:02.310764+00:00",
+      "created_on": "2013-08-08-24T17:51:43.457510+00:00",
+      "slug": "mailgunmailing",
+      "description": "Use mailinglists in the commandline. Python & shell scripts + member lists for maintaining mailgun mailing for WTHX",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/mailgunmailing"
+  },
+
+  {   "projects":["WTHX"],
+      "developer":["Jakob Schlötter", "Gabor Kerekes"],
+      "name": "mailgunMailing",
+      "updated_on": "2013-09-09-13T17:33:02.310764+00:00",
+      "created_on": "2014-08-24T17:51:43.457510+00:00",
+      "slug": "mailgunmailing",
+      "description": "Use mailinglists in the commandline. Python & shell scripts + member lists for maintaining mailgun mailing for WTHX",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/mailgunmailing"
+  },
+
+  {   "projects":["Hubbub"],
+      "developer":"Jakob Schlötter",
+      "name": "cor-v2",
+      "updated_on": "2016-10-04T11:59:48.603880+00:00",
+      "created_on": "2012-05-01T18:18:47.605915+00:00",
+      "slug": "cor-v2",
+      "description": "webapp as native app in ios and android with questionaires to collect user data",
+      "language": "",
+      "href": "https://bitbucket.org/LUSTlab/cor-v2"
+  }
+]

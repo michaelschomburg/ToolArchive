@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family:'Folio-Medium';
+  src: url(./font/Folio-Medium.otf);
+}
+
+body {
+  margin: 0;
+  padding-top: 0;
+}

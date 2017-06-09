@@ -1,0 +1,79 @@
+
+
+
+.content-container{
+  display:flex;
+  flex: 4;
+  flex-direction: column;
+  overflow-y: scroll;
+
+  height: 100vh;
+
+}
+
+.tool-group-header {
+  background-color: white;
+  height:10vh;
+  margin-left: 8vh;
+  margin-right: 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: 'Folio-Medium', sans-serif;
+}
+
+.tool-group {
+  height: 15vh;
+  display:flex;
+  flex-direction: row;
+  margin-left: 8vh;
+  margin-right: 20px;
+  overflow-y: scroll;
+}
+
+.tools-container {
+  overflow-x: scroll;
+  height: 100vh;
+}
+
+.year {
+  font-family: 'Folio-Medium', sans-serif;
+  font-size: 34px;
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+  width:10vh;
+}
+
+.tool-content {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  margin-left: 1vh;
+  height: 90%;
+  align-self: center;
+}
+
+
+
+.tools {
+  display:inline-block;
+  border:0;
+  width:160px;
+  height:100%;
+  position: relative;
+  transition: all 200ms ease-in-out;
+  transform: scale(1);
+  margin-right: 0.2vh;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.tools:hover {
+  z-index: 2;
+
+  transition: all 200ms ease-in-out;
+  transform: scale(1.10);
+
+}

@@ -1,0 +1,66 @@
+
+
+.related-container{
+  display: flex;
+  flex-direction: column;
+  flex: 1.077;
+  border-left: 3px solid black;
+  align-content: center;
+  height: 85vh;
+
+
+}
+
+
+
+.related-header {
+  display:flex;
+  align-self: center;
+  font-family: 'Folio-Medium',sans-serif;
+  font-size: 28px;
+  font-weight:500;
+  position: fixed;
+  background-color: white;
+  align-content: center;
+
+}
+
+
+
+.Projthumb {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  margin-top: 7.8vh;
+}
+
+/*.Projthumb a {
+  background-color: green;
+}*/
+
+
+
+ .project-pic {
+   background-size: cover;
+   background-position: center;
+  width:220px;
+  height:100%;
+  filter: grayscale(100%);
+}
+
+.project-pic:hover {
+  filter: grayscale(0%);
+  align-self: center;
+  color:white;
+  background-color: black;
+  font-family: 'Folio-Medium',sans-serif;
+
+}
+
+ h6 {
+  text-align: left;
+  margin: 0px;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-family: 'Folio-Medium',sans-serif;
+}

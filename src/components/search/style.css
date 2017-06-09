@@ -1,0 +1,77 @@
+
+
+
+.search-result-container{
+  display:flex;
+  flex: 4;
+  flex-direction: column;
+  overflow-y: scroll;
+
+  margin-left: 8vh;
+  margin-right: 20px;
+  align-items: center;
+
+  }
+
+.search-results {
+    display:flex;
+    flex-direction: row;
+    flex: 1;
+    align-self: flex-start;
+    flex-wrap: wrap;
+    height: 100vh;
+
+  }
+
+.result-item {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+  margin-left: 12px;
+  padding-top: 1.1vh;
+  width: 317px;
+  height:252px;
+  text-decoration: none;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.3);
+}
+
+.result-item div {
+  font-family: 'Folio-Medium', sans-serif;
+  font-size: 15px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 1.1vh;
+  align-self: flex-start;
+  text-decoration: none;
+  color: black;
+  text-transform: capitalize;
+  margin-top: 2.7vh;
+
+}
+
+.thumbnail-picture {
+  align-self: center;
+  display: flex;
+  width:297px;
+  height:192px;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+
+}
+
+.search-result-header {
+  font-family: 'Folio-Light', sans-serif;
+  display: flex;
+  flex-direction: row;
+  height:10vh;
+  width: 100%;
+  overflow-x: hidden;
+  margin-left: 23px;
+}
+
+.result-log {
+  margin-left: 1vh;
+  font-family: 'Folio-Medium', sans-serif;
+  font-weight: bold;
+}

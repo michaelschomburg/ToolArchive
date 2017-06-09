@@ -1,0 +1,132 @@
+
+
+@font-face {
+    font-family: 'Folio-Light';
+    src:url(../../font/Folio-Light.otf);
+}
+
+.page-header{
+  display:flex;
+  flex-direction: row;
+  position: fixed;
+  border-bottom: 3px solid black;
+  height: 11vh;
+  width: 100%;
+  background-color: white;
+  box-shadow: 1px 1px 15px 2px rgba(220, 220, 220, 0.5)
+}
+
+/*Homebutton*/
+
+
+.home {
+  flex:1.2;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+}
+
+.homebutton {
+  font-family: 'Folio-Light', sans-serif;
+  font-size: 24px;
+  margin-left: 30px;
+  border: none;
+  background-color: transparent;
+  transition: all 200ms ease-in-out;
+  transform: scale(1);
+  color: black;
+  text-decoration: none;
+}
+
+.homebutton:hover {
+  cursor: pointer;
+  color:white;
+  background-color: black;
+
+}
+
+.bigger {
+  font-family: 'Folio-Medium', sans-serif;
+  font-size: 40px;
+
+}
+
+
+/*Searchbar */
+
+.search {
+  flex:1;
+  display: flex;
+  justify-content: center;
+  font-family: 'Folio-Medium', sans-serif;
+  align-items: center;
+
+}
+
+.search-input {
+  border: none;
+  width: 65vh;
+  height:4vh;
+  border-radius: 5px;
+  font-size: 18px;
+  background-color: transparent;
+
+
+}
+
+.search-input:focus {
+  outline: none;
+}
+
+.searchbar {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid black;
+  border-radius: 5px;
+
+}
+
+.icon-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.search-icon {
+ background-size: cover;
+ background-position: center;
+ width: 30px;
+ height: auto;
+ align-self: center;
+ padding: 0px;
+}
+
+.search-icon img {
+  width: 28px;
+  height:auto;
+}
+
+
+
+
+
+/*Editbutton */
+
+.edit {
+  flex:1;
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+.editbutton {
+  padding-right: 30px;
+  background-color: transparent;
+  border: none;
+}
+
+.editbutton:focus {
+  /*outline: none;*/
+}

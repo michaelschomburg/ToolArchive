@@ -1,0 +1,1732 @@
+[
+    {
+        "name": "ChaumontArchive",
+        "updated_on": "2014-08-19T13:22:14.891553+00:00",
+        "created_on": "2011-04-27T15:22:00.625417+00:00",
+        "slug": "chaumontarchive",
+        "description": "Chaumont Poster Festival Installation",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/chaumontarchive"
+    },
+    {
+        "name": "PolyARC",
+        "updated_on": "2014-08-19T13:21:57.532620+00:00",
+        "created_on": "2011-05-10T10:20:33.831044+00:00",
+        "slug": "polyarc",
+        "description": "Lust PolyArc Chaumont",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/polyarc"
+    },
+    {
+        "name": "OSCTracker",
+        "updated_on": "2014-08-19T13:19:54.161924+00:00",
+        "created_on": "2011-05-10T10:35:37.692021+00:00",
+        "slug": "osctracker",
+        "description": "Kinect OSC Tracker",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/osctracker"
+    },
+    {
+        "name": "PolyArcContentLoader",
+        "updated_on": "2014-08-19T13:20:16.068642+00:00",
+        "created_on": "2011-05-23T09:18:14.137705+00:00",
+        "slug": "polyarccontentloader",
+        "description": "PolyArcContentLoader",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/polyarccontentloader"
+    },
+    {
+        "name": "PolyArcContentFetcher",
+        "updated_on": "2014-08-19T13:19:31.087113+00:00",
+        "created_on": "2011-05-23T09:23:59.308589+00:00",
+        "slug": "polyarccontentfetcher",
+        "description": "PolyArcContentFetcher",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/polyarccontentfetcher"
+    },
+    {
+        "name": "LustPolyArc",
+        "updated_on": "2014-08-19T13:21:34.247290+00:00",
+        "created_on": "2011-05-24T14:22:56.352067+00:00",
+        "slug": "lustpolyarc",
+        "description": "Lust PolyArc",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/lustpolyarc"
+    },
+    {
+        "name": "PosterwallContentFetcher",
+        "updated_on": "2014-08-19T13:19:11.732496+00:00",
+        "created_on": "2011-10-09T16:03:49.681957+00:00",
+        "slug": "posterwallcontentfetcher",
+        "description": "Fetches tweets, etc. for posterwall",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/posterwallcontentfetcher"
+    },
+    {
+        "name": "Packer",
+        "updated_on": "2012-11-30T14:13:26.417466+00:00",
+        "created_on": "2012-01-14T21:48:18.819072+00:00",
+        "slug": "packer",
+        "description": "A Java/Processing library to sub-optimally solve 2D bin packing problems.",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/packer"
+    },
+    {
+        "name": "Tokyo",
+        "updated_on": "2014-08-19T13:07:02.807615+00:00",
+        "created_on": "2012-10-25T13:30:47.692565+00:00",
+        "slug": "tokyo",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/tokyo"
+    },
+    {
+        "name": "mdp",
+        "updated_on": "2014-08-19T13:17:31.804261+00:00",
+        "created_on": "2012-11-28T09:04:22.976572+00:00",
+        "slug": "mdp",
+        "description": "Media Design Practices Website",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/mdp"
+    },
+    {
+        "name": "IABR",
+        "readme": "# IABR\n\nLocal Server Name: iabr.localhost\nLive url: iabr.nl\nDev url: dev.iabr.nl\n\nTo Deploy:\n\nChange constant 'IS_LIVE' to true in:\ncda/application/config/constants.php\ncms/application/config/constants.php\n\n\nSet value of `$config['sess_use_database']` to `TRUE` in:\ncda/application/config/config.php\n",
+        "updated_on": "2017-05-09T08:49:43.956554+00:00",
+        "created_on": "2013-03-13T09:59:06.780087+00:00",
+        "slug": "iabr",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/iabr"
+    },
+    {
+        "name": "lust_cms",
+        "readme": "# README\n\nLocal Server Name: lust_cms.localhost\n\nCredentials:\nemail: lust@lust.nl\npassword: wet4ced",
+        "updated_on": "2014-08-19T13:05:18.070001+00:00",
+        "created_on": "2013-03-13T10:05:08.653410+00:00",
+        "slug": "lust_cms",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lust_cms"
+    },
+    {
+        "name": "Sandberg Interim",
+        "readme": "# This is my README\n",
+        "updated_on": "2014-08-19T13:17:08.486292+00:00",
+        "created_on": "2013-03-29T12:42:35.528119+00:00",
+        "slug": "sandberg-interim",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/sandberg-interim"
+    },
+    {
+        "name": "RNDR",
+        "updated_on": "2017-05-31T17:25:19.947959+00:00",
+        "created_on": "2013-04-07T17:04:25.752584+00:00",
+        "slug": "rndr",
+        "description": "RNDR — the advanced creative coding framework.",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/rndr"
+    },
+    {
+        "name": "ezcontroller",
+        "updated_on": "2014-07-31T08:58:36.312082+00:00",
+        "created_on": "2013-05-01T15:13:55.922842+00:00",
+        "slug": "ezcontroller",
+        "description": "EZController for the LED wall",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/ezcontroller"
+    },
+    {
+        "name": "myrtle",
+        "updated_on": "2017-04-04T09:51:43.562446+00:00",
+        "created_on": "2013-06-18T15:15:55.965949+00:00",
+        "slug": "myrtle",
+        "description": "MRT",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/myrtle"
+    },
+    {
+        "name": "1000 Things",
+        "readme": "# 1000 Things\n\nLocal Server Name: 1000things.localhost\n\nTo Deploy:\n\nChange constant 'IS_LIVE' to true in:\ncda/application/config/constants.php\ncms/application/config/constants.php\n\nInfinite scroll plugin: \nhttp://ianli.com/infinitedrag/",
+        "updated_on": "2014-08-19T12:59:56.835094+00:00",
+        "created_on": "2013-07-08T08:41:56.538265+00:00",
+        "slug": "1000-things",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/1000-things"
+    },
+    {
+        "name": "mdp_site",
+        "readme": "# This is my README\n\nLocal Server Name: mdp.localhost\n\nTo Deploy:\n\nChange constant 'IS_LIVE' to true in:\napplication/config/constants.php\ncms/inc/php/config/config.php\n\nAnd check the resources/php/config/config.php file for the right config settings... These aren't changed by the IS_LIVE constant. Also make sure resources/scripts/import.sh is executable, has the correct path to PHP and being executed every hour. ",
+        "updated_on": "2015-02-16T11:16:35.866263+00:00",
+        "created_on": "2013-08-14T07:05:48.908287+00:00",
+        "slug": "mdp_site",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/mdp_site"
+    },
+    {
+        "name": "EZ",
+        "readme": "Installation\n\n1. Create a hosts entry \n\n\t127.0.0.1 ezlichtwand.localhost\n\t127.0.0.1 ezlichtwand.[your ip]\n\n3. Create a virtual host entry\n\n\t<VirtualHost *:80>\n\t\tDocumentRoot \"path to your local copy\"\n\t\tServerName ezlichtwand.localhost\n\t\tServerAlias ezlichtwand.localhost\n\n\t\t<Directory \"path to your local copy\">\n\t\t\tAllowOverride All \n\t\t\tOrder allow,deny \n\t\t\tAllow from all \n\t\t\tOptions +Indexes\n\t\t</Directory>\n\t</VirtualHost>\n\n4. Intall database from cms/db\n\n5. Update db login credentials in cms/resources/php/db/config.php",
+        "updated_on": "2014-08-18T12:22:30.626587+00:00",
+        "created_on": "2013-08-26T07:44:32.567491+00:00",
+        "slug": "ez",
+        "description": "A rebuild of the ez cms",
+        "language": "javascript",
+        "href": "https://bitbucket.org/LUSTlab/ez"
+    },
+    {
+        "name": "Urban Nebula",
+        "readme": "# URBAN NEBULA\n\nLocal Server Name: urbannebula.localhost\n\nTo Deploy:\n\nChange constant 'IS_LIVE' to true in:\ninc/php/functions/config.php\ncms/php/config.php",
+        "updated_on": "2014-08-19T13:06:22.233235+00:00",
+        "created_on": "2013-09-10T08:05:35.879855+00:00",
+        "slug": "urban-nebula",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/urban-nebula"
+    },
+    {
+        "name": "AUFI",
+        "updated_on": "2014-08-19T13:15:57.134592+00:00",
+        "created_on": "2013-09-10T13:46:03.411390+00:00",
+        "slug": "aufi",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/aufi"
+    },
+    {
+        "name": "lely-kiosk",
+        "readme": "# LELY-kiosk\n\nThis project consists of three main programs and a number of development tools\n\nnet.lustlab.lely.KioskServer is the main server program used for pantries, restaurant and entrance kiosks\nnet.lustlab.lely.KioskClient is the client program user for pantries, restaurant and entrance kiosks\nnet.lustlab.lely.MeetingroomKiosk is the program used for meeting room kiosks\n\nnet.lustlab.lely.WidgetTester is a development tool in which a single widget can be tested\n\n## Getting things to run\n\n * Run net.lustlab.lely.KioskServer with arguments config/schedule-<target>.yaml\n * Run net.lustlab.lely.KioskClient on the hosts targetted in the config file\n\n## Developing and testing a single widget\n\n * copy config/widgettester.template.yaml to config/widgettester.yaml\n * edit config/widgettester.yaml\n * run net.lustlab.lely.WidgetTester\n\n",
+        "updated_on": "2015-04-23T16:15:11.965047+00:00",
+        "created_on": "2013-09-16T10:43:59.257184+00:00",
+        "slug": "lely-kiosk",
+        "description": "lely kiosk project",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lely-kiosk"
+    },
+    {
+        "name": "Lely API",
+        "readme": "# Install notes Lely API for development\n\n- Make a new database\n- Install tables: /db/tables.sql\n- Install data: /db/datatypes.sql\n- Check for DB updates and run them. /db/updates\n- Verify database credentials in /vendor/Lely/DataBaseConnection.php\n- Install Memcached with homebrew: brew install memcached\n\nFor the _/lely/videos_ and _/lely/posters_ routes, the Lely API VirtualHost configuration in Apache needs 2 aliases to serve the videos and posters. On the server this looks like this:\n\n    Alias /assets/videos /home/lust/www/assets/videos\n    Alias /assets/posters /home/lust/www/assets/posters\n\n\n# Deployment\n\nTo deploy API changes to the Lely server you'll have to add the server as a remote to the git repository. Because it's not possible to access the server directly you'll have to use the SSH tunnel. Details to setup this SSH tunnel are in an e-mail with the subject _SSH in to Lely Server_. If you're using Sourcetree to manage this reposity you can follow the next steps to add the server as a remote:\n\n- Make sure you're managing the Lely repository\n- Choose _Add remote..._ from _Repository_ in the menu bar\n- Give the remote a name (i.e. _Lely Server_)\n- Use address of the SSH tunnel for the _URL / path_ field; i.e. _ssh://lust@server.lustlab.net:8084/home/lust/git/lelyapi.git_\n- Click _OK_\n\n- Set up tunnel\n\t- verify if tunnel exists: ssh -p 8084 lust@server.lustlab.net\n\t- doens't work? Make tunnel on Lely machine. Log in with Logmein and open terminal (cmd) in Windows when logged in.\n\t- in ~ run ./maketunnels.sh\n\t- fill in root password of stedelijk.lustlab.net machine. (Digital ocean machine)\n\t- password is someones last name\n\t- On your own machine make a ssh connection (see step 1) \n\t- Verify connection: http://stedelijk.lustlab.net:8080\n\t- Tunnel is set up\n\t\nWith the remote in place and a tunnel set up to the lely server you can push the repository directly to the server. Users of Sourcetree should follow the next steps:\n\n- Commit your changes and __MAKE SURE YOU DON'T COMMIT _settings.php_!__\n- Pull all changes from the Bitbucket repository. __Make sure you select the correct repository in _Pull from repository___)\n- Be sure to test the API after pulling and make sure everything still works. There is a python tool in ./api_checker.py to do a crude test of the API. Use python to run this script (_python ./api_checker.py_). __Make sure the _hostname_ variable around line 11 is set to the hostname you use for development and all the available routes are in the _urls_ variable!__ Every route should be successful before deployment!\n- Click the _Push_ icon in Sourcetree.\n- Choose the right repository (i.e. Lely Server) in the dropdown menu and make sure the _master_ branch is selected.\n- Press _OK_ and wait until your changes have been pushed.\n- SSH into the server and make sure the changes are in place. (Open a file you know that's been changed or curl to a new route you implemented...)\n- To flush memcached execute the following command: _echo 'flush_all' | nc localhost 11211_ This clears the cache of the Lely server and makes all your changes visible.",
+        "updated_on": "2017-05-05T13:48:33.946591+00:00",
+        "created_on": "2013-09-23T11:21:15.089325+00:00",
+        "slug": "lely-api",
+        "description": "API for controlling data for the Lely project",
+        "language": "php",
+        "href": "https://bitbucket.org/LUSTlab/lely-api"
+    },
+    {
+        "name": "Senseable City Lab",
+        "readme": "# Senseable City Lab\n",
+        "updated_on": "2014-08-19T13:16:31.367937+00:00",
+        "created_on": "2013-10-11T11:09:55.754891+00:00",
+        "slug": "senseable-city-lab",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/senseable-city-lab"
+    },
+    {
+        "name": "rietveld_portfolio_machine",
+        "readme": "# Rietveld\n\nhttps://rietveldacademie.nl/apply\n\nLocal Server Name: rietveld\n\nTo Deploy:\n\nUpload to server\nDevelopment and Live settings are determined by PHP's HTTP_HOST variable in index.html\n\n---\n\n# reset before next application round starts\n\nnanette (apply@rietveldacademie.nl) usually gets in touch to ask if we can reset the system. that means:\n- remove all applicants\n- remove all applications\n- but keep the users intact\n\nto do that:\n- backup the following tables (or just the entire database), then empty them\n\t- `cms_applicants`\n\t- `cms_applications`\n\t- `cms_application_admincomments`\n\t- `cms_application_comments`\n\t- `cms_application_media`\n\t- `cms_application_media_index`\n- backup the following directories (rename), then empty them (create new, empty dirs)\n\t- `/www/media/application_media`\n\t- `/www/media/uploads`\n\n---\n\n# db migrations\n\ncodeigniter has a migrations feature, but for some reason we decided to simply run the migrations manually. see files in `./application/migrations`.\n",
+        "updated_on": "2017-01-23T12:50:25.599617+00:00",
+        "created_on": "2013-10-17T15:58:22.703161+00:00",
+        "slug": "rietveld_portfolio_machine",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/rietveld_portfolio_machine"
+    },
+    {
+        "name": "AUFI-V2",
+        "updated_on": "2017-05-15T10:50:28.698566+00:00",
+        "created_on": "2013-10-22T15:43:45.758975+00:00",
+        "slug": "aufi-v2",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/aufi-v2"
+    },
+    {
+        "name": "adtree-xml2json",
+        "updated_on": "2016-01-11T13:19:39.643901+00:00",
+        "created_on": "2014-01-10T16:26:33.173836+00:00",
+        "slug": "adtree-xml2json",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/adtree-xml2json"
+    },
+    {
+        "name": "LUST Website",
+        "readme": "# LUST\n\nLocal Server Name: lust.localhost\n\nTo Deploy:\n\nChange constant 'IS_LIVE' to true in:\ncms/inc/php/config/config.php\n",
+        "updated_on": "2014-08-19T13:05:51.012007+00:00",
+        "created_on": "2014-01-14T09:35:58.146538+00:00",
+        "slug": "lust-website",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lust-website"
+    },
+    {
+        "name": "Drachten Designer",
+        "readme": "#Drachten Designer\n\nRun GroupedWall to test animations.",
+        "updated_on": "2014-10-24T14:03:46.787964+00:00",
+        "created_on": "2014-02-11T19:21:34.325511+00:00",
+        "slug": "drachten-designer",
+        "description": "A processing based repo mostly for designing animations and testing visual aspects of the project. Contains no controller code.",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/drachten-designer"
+    },
+    {
+        "name": "drachten_web",
+        "updated_on": "2014-08-18T13:57:54.732138+00:00",
+        "created_on": "2014-02-17T11:51:18.446791+00:00",
+        "slug": "drachten_web",
+        "description": "",
+        "language": "html/css",
+        "href": "https://bitbucket.org/LUSTlab/drachten_web"
+    },
+    {
+        "name": "LUST Best Practices",
+        "updated_on": "2014-08-19T13:18:47.866611+00:00",
+        "created_on": "2014-02-20T14:44:16.638014+00:00",
+        "slug": "lust-best-practices",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lust-best-practices"
+    },
+    {
+        "name": "LUST Wiki",
+        "readme": "# LUST Wiki\n\nThis project is based [Dillinger.io](http://www.dillinger.io) to provide an easy way to share notes about best practices we should follow in our daily practice. For development this project uses a [Yeoman](http://yeoman.io/) [marionette generator](https://github.com/mrichard/generator-marionette) that depends on (among others):\n\n- NodeJS\n- MongoDB\n- Express\n- Grunt\n- Bower\n- Backbone Marionette\n\nTo setup this Yeoman based development with MongoDB environment you'll have to run:\n\n\tbrew install node\n\tbrew install mongodb\n\tnpm install -g yo grunt-cli bower generator-marionette\n\nInitialize this project after you've checked out this repository by running inside the repository's directory:\n\t\n\tnpm install && bower install\n\nTo run this project startup MongoDB\n\t\n\tmongod\n\nand run grunt\n\t\n\tgrunt\n\nA new browser tab should open with the location [http://localhost:9000/](http://localhost:9000/)\n\n###DISCLAIMER: This project is still under heavy construction!",
+        "updated_on": "2014-03-05T09:24:14.077799+00:00",
+        "created_on": "2014-02-24T10:45:50.343561+00:00",
+        "slug": "lust-wiki",
+        "description": "Simple wiki for best practices",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lust-wiki"
+    },
+    {
+        "name": "wttc",
+        "readme": "# Install notes WTTC\n\n1. Create a hosts entry\n\n\t127.0.0.1 wttc.localhost\n\t127.0.0.1 wttc.[your ip]\n\n\n2. Create a virtual host entry for project\n\n\t<VirtualHost *:80>\n\t\tDocumentRoot \"path to your local copy\"\n\t\tServerName wttc.localhost\n\t\tServerAlias wttc.localhost\n\n\t\t<Directory \"path to your local copy\">\n\t\t\tAllowOverride All \n\t\t\tOrder allow,deny \n\t\t\tAllow from all \n\t\t\tOptions +Indexes\n\t\t</Directory>\n\t</VirtualHost>\n\n4. OPTIONAL: Intall database from /db\n\n6. restart apache\n",
+        "updated_on": "2014-08-18T13:36:12.807026+00:00",
+        "created_on": "2014-03-13T16:18:12.198206+00:00",
+        "slug": "wttc",
+        "description": "",
+        "language": "javascript",
+        "href": "https://bitbucket.org/LUSTlab/wttc"
+    },
+    {
+        "name": "WTTC Data",
+        "readme": "# This is my README\n",
+        "updated_on": "2014-08-19T13:12:15.110202+00:00",
+        "created_on": "2014-03-18T15:48:44.179098+00:00",
+        "slug": "wttc-data",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/wttc-data"
+    },
+    {
+        "name": "Generator-Lust",
+        "readme": "generator-marionette\n======================\n\nYeoman generator for Express, Marionette and Backbone with AMD\n\nStack\n-------\n- Server: \n    * Node: http://nodejs.org/\n    * Express: http://expressjs.com/\n    * Socket IO: http://socket.io/\n- DB: Mongo: http://www.mongodb.org/\n- ODM: Mongoose: http://mongoosejs.com\n- Client: \n    * Backbone: http://backbonejs.org/\n    * Marionette: https://github.com/marionettejs/backbone.marionette\n    * jQuery: http://jquery.com/\n    * Require: http://requirejs.org/\n    * Handlebars: \n        - http://handlebarsjs.com/\n        - https://github.com/SlexAxton/require-handlebars-plugin\n    * SASS-Bootstrap:\n        - http://twitter.github.io/bootstrap\n        - https://github.com/thomas-mcdonald/bootstrap-sass\n- Tooling: \n    * Yeoman: http://yeoman.io/\n    * Bower: http://bower.io/\n    * Grunt: http://gruntjs.com/\n- Testing:\n    * phantomJS http://phantomjs.org/\n    * Mocha http://visionmedia.github.io/mocha/\n    * Chai http://chaijs.com/\n    * Sinon http://sinonjs.org/\n\n\nDirectory structure\n-------\n- app/                                --> client side files\n    * /bower_components               --> bower installs\n    * /images\n    * /scripts\n        - /vendor                     --> 3rd party scripts\n        - /models\n        - /collections\n        - /controllers\n        - /routers\n        - /regions\n        - /views\n            * /item\n            * /collection\n            * /composite\n            * /layout\n        - init.js                     --> require configuration\n        - main.js                     --> application starting point\n        - application.js              --> application file\n\n    * /styles                         --> scss files\n    * /templates                      --> handlebar templates\n\n- server/                             --> node server files\n- test/                               --> unittesting\n    * /spec                           --> individual spec files\n\n\nInstall\n-------\nFirst make sure you have MongoDB, Node, Npm, Yeoman, Bower and Grunt installed.\n\nInstall mongoDB with: \n\n    $ brew install mongodb \n\nOr visit http://www.mongodb.org/\n\nVisit nodejs.org to install node and NPM\n\n\nInstall phantomJS with:\n\n    $ brew install phantomjs\n\nOr visit http://phantomjs.org/\n\n\nTo install Yeoman, Bower and Grunt run: \n\n    $ npm install -g yo grunt-cli bower\n\n\nInstall mocha-phantomjs:\n\n    $ npm install -g mocha-phantomjs\n\n\nInstall mocha generator: \n\n    $ npm install (-g) generator-mocha-amd\n\n\nInstall marionette generator\n\n    $ npm install (-g) generator-marionette\n\n\n\nBootstrap project\n-----------------\nTo bootstrap a new project simply run:\n\n    $ yo marionette\n\nYou have option to include the full express server OR just the marionette generators with a minimal server to develop and run test. No SASS/CSS in the latter. \n\n\nTo start the app run:\n\n    $ grunt\n\n\nUnit testing generation\n-----------------\nThe biggest change in this release is the automatic unit test generation as part of the marionette-generator. The Marionette generator calls upon the mocha-amd generator. The default grunt task will automatically run all unit test files via phantom JS. You can also use the browser at localhost:1234/test. Test file generation looks something like the following:\n\n- yo marionette:collection sizes --model size --create-all     // run collection generator\n- create app/scripts/collections/sizes.js                       \n- invoke   marionette:model\n- create     app/scripts/models/size.js\n- invoke       mocha-amd:unitTest\n- create         test/spec/models/size.js               // unit test for size model\n- force         test/spec/testSuite.js\n- invoke   mocha-amd:unitTest\n- create     test/spec/collections/sizes.js             // unit test for sizes collection\n- force     test/spec/testSuite.js                  // testSuite file which lists all test to run\n\n\n\nRecommends\n-----------------\nThe generator is most useful using the --creat-all flag. In the example:\n\n    $ yo marionette:compositeview peopleview --itemview personview --create-all\n\nYou will get the following files:\n   * create **app/scripts/views/composite/people.js**\n   * invoke marionette:itemview\n   * create **app/scripts/views/item/person.js**\n   * invoke marionette:tmpl\n   * create **app/templates/item/person_tmpl.hbs**\n   * invoke marionette:tmpl\n   * create **app/templates/composite/people_tmpl.hbs**\n\n\nCreate routers\n--------------\nYou can generate routers too with\n\n    $ yo marionette:router router-name\n\n\n\nCreate model\n------------\nTo add a Backbone model to the project use the model generator like this\n\n    $ yo marionette:model model-name\n\nOr to inherit from an existing model\n\n    $ yo marionette:model model-name --inherit model-name\n\n\n\nCreate collection\n-----------------\nTo add a Backbone collection to the project use collection generator\n\n    $ yo marionette:collection collection-name\n\nYou can link the collection with an existent model\n\n    $ yo marionette:collection collection-name model-name\n\nOr may be you want to create both, model and collection on one step\n\n    $ yo marionette:collection collection-name --model model-name --create-all\n\nOr you may want to inherit from another collection\n\n    $ yo marionette:collection collection-name --model model-name --inherit collection-name --create-all\n\n\n\n\nCreate views\n------------\nBackbone works with view definitions, to create one use this command. It is recommended to use Marionette views instead of the standard Backbone view\n\n    $ yo marionette:view view-name\n\n\n\n\nCreate item views\n------------\nCreate a Marionette ItemView and link to an existing template at location templates/[template-location]\n\n    $ yo marionette:itemview view-name \n\nYou may want to inherit from another itemview\n\n    $ yo marionette:itemview view-name --inherit view-name\n\nOr maybe you want to create both, itemView and template on one step\n\n    $ yo marionette:itemview view-name --create-all\n\n\n\nCreate collection views\n------------\nCreate a Marionette CollectionView that is associated to an existing itemview\n\n    $ yo marionette:collectionview view-name --itemview itemview-name\n\nOr inherit from another collectionview\n\n    $ yo marionette:collectionview view-name --itemview itemview-name --inherit view-name\n\nOr maybe you want to create both, itemview (with template) and collectionview.\n\n    $ yo  marionette:collectionview view-name --itemview itemview-name --create-all\n\n\n\n\nCreate composite views\n------------\nCreate a Marionette CompositeView\n\n    $ yo marionette:compositeview view-name --itemview itemview-name\n\nOr inherit from another CompositeView\n\n    $ yo marionette:compositeview view-name --itemview itemview-name --inherit view-name\n\nOr maybe you want to create all, itemview and compositeview and both templates. \n\n    $ yo marionette:compositeview view-name --itemview itemview-name --create-all\n\n\n\n\nCreate regions\n------------\nCreate a Marionette Region\n\n    $ yo marionette:region region-name\n\nOr inherit from another Region\n\n    $ yo marionette:region region-name --inherit region-name\n\n\n\n\nCreate layouts\n------------\nCreate a Marionette Layout and link to an existing template at location templates/[template-location]\n\n    $ yo marionette:layout layout-name\n\nOr inherit from another layout\n\n    $ yo marionette:layout layout-name --inherit layout-name\n\nOr maybe you want to create both, Layout and template on one step\n\n    $ yo marionette:layout layout-name --create-all\n\n\n\nCreate controller\n------------\nCreate a Marionette Controller\n\n    $ yo marionette:controller controller-name\n\nOr inherit from another Controller\n\n    $ yo marionette:controller controller-name --inherit controller-name\n\n\nCreate templates\n------------\nCreate a handle bars tmpl\n\n    $ yo marionette:tmpl tmpl-name --tmplLocation tmpl-location\n\n\n\n\n\n# This is my README\n",
+        "updated_on": "2014-08-19T13:18:27.817886+00:00",
+        "created_on": "2014-03-27T09:48:15.021385+00:00",
+        "slug": "generator-lust",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/generator-lust"
+    },
+    {
+        "name": "IABR Generators",
+        "readme": "# This is my README\n",
+        "updated_on": "2014-08-19T13:15:30.192793+00:00",
+        "created_on": "2014-04-01T13:10:56.068893+00:00",
+        "slug": "iabr-generators",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/iabr-generators"
+    },
+    {
+        "name": "HackathonAntiFraude",
+        "readme": "# HACKATHON\n",
+        "updated_on": "2014-04-12T12:11:00.724866+00:00",
+        "created_on": "2014-04-12T07:01:54.036130+00:00",
+        "slug": "hackathonantifraude",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/hackathonantifraude"
+    },
+    {
+        "name": "GrayHat",
+        "updated_on": "2014-07-28T15:06:39.327032+00:00",
+        "created_on": "2014-04-12T14:27:43.346075+00:00",
+        "slug": "grayhat",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/grayhat"
+    },
+    {
+        "name": "modi-operandi-demo",
+        "updated_on": "2014-08-19T13:15:03.953061+00:00",
+        "created_on": "2014-05-06T13:04:54.839912+00:00",
+        "slug": "modi-operandi-demo",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/modi-operandi-demo"
+    },
+    {
+        "name": "app-dev",
+        "readme": "# APP\n",
+        "updated_on": "2014-08-19T13:18:01.207203+00:00",
+        "created_on": "2014-05-15T08:52:54.845990+00:00",
+        "slug": "app-dev",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/app-dev"
+    },
+    {
+        "name": "IFC",
+        "readme": "# IFC\n\nLocal Server Name: ifc.localhost\n\nTo Install:\n\nnpm install\nbower install\ngulp\n\nTo Deploy:\n\nDelete the build directory\nRun 'gulp deploy'\nCopy index.html and the build directory to the server.\n\nThis repository is the main site\nThere are two others: \n\tifc-atlas\n\tifc-megacities\n\nThese are for the exhibition.\nTo deploy these:\n\nDelete the directories 'src' and 'build'\nCopy the 'src' directory from this repo to the others.\nIn atlas and megacities edit the file:\n\tsrc/javascript/settings.js\nComment out the variables under DEFAULT and Un-Comment the ATLAS or MEGACITIES block\nRun 'gulp deploy'\nCopy index.html and the build directory to the 'atlas' or 'megacities' directory on the server\n",
+        "updated_on": "2014-08-21T12:41:25.869554+00:00",
+        "created_on": "2014-07-05T15:42:58.324119+00:00",
+        "slug": "ifc",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/ifc"
+    },
+    {
+        "name": "LUSTlab-R+D",
+        "updated_on": "2014-07-10T08:42:18.067690+00:00",
+        "created_on": "2014-07-10T08:42:18.042109+00:00",
+        "slug": "lustlab-r-d",
+        "description": "The LUSTlab Research and Development repository. Should be mostly used for its wiki.",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lustlab-r-d"
+    },
+    {
+        "name": "ifc-megacities",
+        "readme": "# IFC MEGACITIES\n\nLocal Server Name: ifc-megacities.localhost\n\nTo Install:\n\nnpm install\nbower install\ngulp\n\nTo Deploy:\n\nSee instructions in main repo: ifc",
+        "updated_on": "2014-08-19T13:11:22.490616+00:00",
+        "created_on": "2014-07-21T14:18:01.930612+00:00",
+        "slug": "ifc-megacities",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/ifc-megacities"
+    },
+    {
+        "name": "ifc-atlas",
+        "readme": "# IFC ATLAS\n\nLocal Server Name: ifc-atlas.localhost\n\nTo Install:\n\nnpm install\nbower install\ngulp\n\nTo Deploy:\n\nSee instructions in main repo: ifc",
+        "updated_on": "2014-08-19T13:11:40.929261+00:00",
+        "created_on": "2014-07-21T14:21:04.981018+00:00",
+        "slug": "ifc-atlas",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/ifc-atlas"
+    },
+    {
+        "name": "commonwealth-api",
+        "readme": "Commonwealth\n",
+        "updated_on": "2014-08-19T13:14:15.772016+00:00",
+        "created_on": "2014-07-23T08:44:59.169026+00:00",
+        "slug": "commonwealth-api",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/commonwealth-api"
+    },
+    {
+        "name": "Commonwealth",
+        "updated_on": "2014-08-14T13:16:22.050292+00:00",
+        "created_on": "2014-07-23T08:45:37.133498+00:00",
+        "slug": "commonwealth",
+        "description": "",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/commonwealth"
+    },
+    {
+        "name": "Clue",
+        "readme": "# README\n\nLocal Server Name: clue.localhost\n\nTo Deploy:\n\nChange constant 'IS_LIVE' to true in:\ncluecms/inc/php/config/config.php",
+        "updated_on": "2014-08-19T13:08:19.800493+00:00",
+        "created_on": "2014-07-28T14:23:19.805192+00:00",
+        "slug": "clue",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/clue"
+    },
+    {
+        "name": "WTHX",
+        "readme": "Install Notes",
+        "updated_on": "2015-02-23T17:17:22.850673+00:00",
+        "created_on": "2014-07-29T14:48:25.557484+00:00",
+        "slug": "wthx",
+        "description": "Simple Slim app for WTHX",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/wthx"
+    },
+    {
+        "name": "DrachtenController",
+        "readme": "# Notes Drachten Controller\n\nTo test animations, use the AnimationTester\n\n",
+        "updated_on": "2014-10-22T08:07:04.498370+00:00",
+        "created_on": "2014-07-31T10:12:52.305620+00:00",
+        "slug": "drachtencontroller",
+        "description": "Controller for installation at the Police Meldkamer in Drachten.",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/drachtencontroller"
+    },
+    {
+        "name": "Iconen van de Post",
+        "readme": "# TNT\n\nLocal Server Name: tnt\n\nTo deploy:\nDrag and drop to server\nConfiguration based on hostname being 'tnt' or not.\nConfiguration options primarily in:\n\tself_service/\n\ttnt/inc/php/functions\n",
+        "updated_on": "2015-05-04T10:03:09.649277+00:00",
+        "created_on": "2014-08-11T14:49:49.784888+00:00",
+        "slug": "iconen-van-de-post",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/iconen-van-de-post"
+    },
+    {
+        "name": "Posterwall Server: Kendall",
+        "readme": "# Posterwall Server: Kendall\n\nLocal Server Name: posterwall-kendall.localhost\n\nConfiguration:\n\nEdit resources/php/config/config.php\nThere are settings for live and local\n\nLive configuration should only require updating database and directory names\n\nLocal configuration depends on local system paths\n\nAPI tokens for third party services are also defined as constants in config file\nThese must be renewed as needed\n\nDeployment:\nchange $live to true in config file\n\nSetup up cron: \ncurl http://posterwallforthe21stcentury.net/INSTALLATION_DIRECTORY/resources/php/utils/poster-create.php",
+        "updated_on": "2014-08-19T13:03:02.342625+00:00",
+        "created_on": "2014-08-12T09:13:51.785862+00:00",
+        "slug": "posterwall-server-kendall",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/posterwall-server-kendall"
+    },
+    {
+        "name": "Posterwall Server: Cooper Hewitt",
+        "readme": "# Posterwall Server: Cooper Hewitt\n\nLocal Server Name: posterwall-cooperhewitt.localhost\n\nConfiguration:\n\nEdit resources/php/config/config.php\nThere are settings for live and local\n\nLive configuration should only require updating database and directory names\n\nLocal configuration depends on local system paths\n\nAPI tokens for third party services are also defined as constants in config file\nThese must be renewed as needed\n\nDeployment:\nchange $live to true in config file\n\nSetup up cron: \ncurl http://posterwallforthe21stcentury.net/INSTALLATION_DIRECTORY/resources/php/utils/poster-create.php",
+        "updated_on": "2014-08-19T13:04:10.989459+00:00",
+        "created_on": "2014-08-12T10:05:42.430150+00:00",
+        "slug": "posterwall-server-cooper-hewitt",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/posterwall-server-cooper-hewitt"
+    },
+    {
+        "name": "Posterwall Server: Hammer",
+        "readme": "# Posterwall Server: Hammer\n\nLocal Server Name: posterwall-hammer.localhost\n\nConfiguration:\n\nEdit resources/php/config/config.php\nThere are settings for live and local\n\nLive configuration should only require updating database and directory names\n\nLocal configuration depends on local system paths\n\nAPI tokens for third party services are also defined as constants in config file\nThese must be renewed as needed\n\nDeployment:\nchange $live to true in config file\n\nSetup up cron: \ncurl http://posterwallforthe21stcentury.net/INSTALLATION_DIRECTORY/resources/php/utils/poster-create.php",
+        "updated_on": "2014-08-19T13:03:36.421081+00:00",
+        "created_on": "2014-08-12T10:19:59.730738+00:00",
+        "slug": "posterwall-server-hammer",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/posterwall-server-hammer"
+    },
+    {
+        "name": "Posterwall Server: MOTI",
+        "readme": "# Posterwall Server: MOTI\n\nLocal Server Name: posterwall-moti.localhost\n\nConfiguration:\n\nEdit resources/php/config/config.php\nThere are settings for live and local\n\nLive configuration should only require updating database and directory names\n\nLocal configuration depends on local system paths\n\nAPI tokens for third party services are also defined as constants in config file\nThese must be renewed as needed\n\nDeployment:\nchange $live to true in config file\n\nSetup up cron: \ncurl http://posterwallforthe21stcentury.net/INSTALLATION_DIRECTORY/resources/php/utils/poster-create.php",
+        "updated_on": "2014-08-19T13:02:40.959681+00:00",
+        "created_on": "2014-08-12T10:34:13.162326+00:00",
+        "slug": "posterwall-server-moti",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/posterwall-server-moti"
+    },
+    {
+        "name": "Posterwall Server: Shanghai",
+        "readme": "# Posterwall Server: Shanghai\n\nLocal Server Name: posterwall-shanghai.localhost\n\nConfiguration:\n\nEdit resources/php/config/config.php\nThere are settings for live and local\n\nLive configuration should only require updating database and directory names\n\nLocal configuration depends on local system paths\n\nAPI tokens for third party services are also defined as constants in config file\nThese must be renewed as needed\n\nDeployment:\nchange $live to true in config file\n\nSetup up cron: \ncurl http://posterwallforthe21stcentury.net/INSTALLATION_DIRECTORY/resources/php/utils/poster-create.php",
+        "updated_on": "2014-08-19T13:02:13.931978+00:00",
+        "created_on": "2014-08-12T11:01:02.377235+00:00",
+        "slug": "posterwall-server-shanghai",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/posterwall-server-shanghai"
+    },
+    {
+        "name": "Posterwall Server: Walker",
+        "readme": "# Posterwall Server: Walker\n\nLocal Server Name: posterwall-walker.localhost\n\nConfiguration:\n\nEdit inc/php/config/config.php\nThere are settings for live and local\n\nLive configuration should only require updating database and directory names\n\nLocal configuration depends on local system paths\n\nAPI tokens for third party services are also defined as constants in config file\nThese must be renewed as needed\n\nDeployment:\nchange $live to true in config file\n\nSetup up cron: \ncurl http://posterwallforthe21stcentury.net/INSTALLATION_DIRECTORY/inc/php/utils/poster-create.php",
+        "updated_on": "2014-08-19T13:01:33.360666+00:00",
+        "created_on": "2014-08-12T12:10:34.317592+00:00",
+        "slug": "posterwall-server-walker",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/posterwall-server-walker"
+    },
+    {
+        "name": "1000 Things V1",
+        "readme": "# 1000 Things Version 1\n\nLocal Server Name: 1000things-v1.localhost\n\nCMS Login:\nlust@lust.nl\nwet4ced",
+        "updated_on": "2014-08-19T13:00:19.659162+00:00",
+        "created_on": "2014-08-12T14:03:02.110256+00:00",
+        "slug": "1000-things-v1",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/1000-things-v1"
+    },
+    {
+        "name": "IFC Data",
+        "readme": "# IFC DATA\n",
+        "updated_on": "2014-08-21T09:40:30.250925+00:00",
+        "created_on": "2014-08-13T15:18:42.889109+00:00",
+        "slug": "ifc-data",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/ifc-data"
+    },
+    {
+        "name": "peace_palace",
+        "readme": "Installation\n\n1. Create a hosts entry\n\n\t127.0.0.1 peacepalace.localhost\n\t127.0.0.1 peacepalace.[your ip]\n\n\n2. Create a virtual host entry for project\n\n\t<VirtualHost *:80>\n\t\tDocumentRoot \"path to your local copy\"\n\t\tServerName peacepalace.localhost\n\t\tServerAlias peacepalace.localhost\n\n\t\t<Directory \"path to your local copy\">\n\t\t\tAllowOverride All \n\t\t\tOrder allow,deny \n\t\t\tAllow from all \n\t\t\tOptions +Indexes\n\t\t</Directory>\n\t</VirtualHost>\n\n4. Intall database from /db\n\n5. Update db login credentials in cms/resources/php/config/config.php\n\n6. restart apache\n\n7. CMS available @ http://peacepalace.localhost/cms\n\n8. Front-end available @ http://peacepalace.localhost/site",
+        "updated_on": "2015-09-28T14:27:31.313068+00:00",
+        "created_on": "2014-08-18T12:29:36.942124+00:00",
+        "slug": "peace_palace",
+        "description": "",
+        "language": "php",
+        "href": "https://bitbucket.org/LUSTlab/peace_palace"
+    },
+    {
+        "project":"Camera postura",
+        "developer":"Floris",
+        "name": "NFF Editor",
+        "readme": " A tool to create motion capture data for camera postura \nMake in root the following writable folders:\n\n/clips\n/films\n/stills\n/zip\n",
+        "updated_on": "2014-10-01T09:10:31.295606+00:00",
+        "created_on": "2014-09-09T14:07:14.960849+00:00",
+        "slug": "nff-editor",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/nff-editor"
+    },
+    {
+        "name": "WTHX-Stream-v1",
+        "readme": "# Overview\n\nThis is the source code for the communication platform at WTHX. Use the data from the WTHX-Archive repository.\n\n*Developed at LUSTlab*\n\n##GET variables\n\n`static_mode`: no upload functionality\n\n`fs_mode`: full screen mode\n\n`curated_mode`: show only curated posts",
+        "updated_on": "2014-11-11T15:33:42.973499+00:00",
+        "created_on": "2014-09-21T14:39:32.848799+00:00",
+        "slug": "wthx-stream-v1",
+        "description": "A platform for real-time communication at the WTHX event. LEGACY -- Shinier Node.js version is better",
+        "language": "javascript",
+        "href": "https://bitbucket.org/LUSTlab/wthx-stream-v1"
+    },
+    {
+        "name": "INPO",
+        "updated_on": "2014-11-05T18:23:31.683167+00:00",
+        "created_on": "2014-09-23T15:22:22.696823+00:00",
+        "slug": "inpo",
+        "description": "In No Particular Order – Stimuleringsfonds",
+        "language": "javascript",
+        "href": "https://bitbucket.org/LUSTlab/inpo"
+    },
+    {
+        "name": "WTHX-Stream-v2",
+        "readme": "# WTHX Stream\r\nA platform for live digital communication in a timeline format.\r\n\r\n## Usage\r\nTo start the server from the `dist` directory, simply run `grunt` from the repository root.\r\n\r\nTo start the server from the `src` directory during development, run `grunt src` from the repository root.\r\n\r\nTo compile the application from the `src` directory into the `dist` directory, run `grunt compile`.\r\n\r\n## Known issues\r\n### Touch devices\r\nWorking on it.\r\n\r\n### Crash if no themes found\r\nMake sure you have a collection `themes` with at least one document:\r\n```\r\n#!javascript\r\n\r\n{\r\n\t_id: some_random_id,\r\n\tcolor: 'ff0000',\r\n\tname: 'Some theme'\r\n}\r\n```",
+        "updated_on": "2014-11-11T15:40:20.549181+00:00",
+        "created_on": "2014-09-30T10:12:03.140676+00:00",
+        "slug": "wthx-stream-v2",
+        "description": "Version 2 of the WTHX streaming platform",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/wthx-stream-v2"
+    },
+    {
+        "name": "modular-body-prototypes",
+        "readme": "# the modular body\n\n## what?\nfor now: interactive prototypes\n\n## installation\n```shell\nnpm install\nbower install\ngulp watch\nopen http://localhost:9001/\n```\n\nthis is a [`yeoman` project](http://yeoman.io/), so make sure to put all your files into [`./app`](./app).\n",
+        "updated_on": "2016-02-23T10:57:38.406222+00:00",
+        "created_on": "2014-10-02T10:25:30.919673+00:00",
+        "slug": "modular-body-prototypes",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/modular-body-prototypes"
+    },
+    {
+        "name": "SlackTV",
+        "updated_on": "2014-10-02T16:41:13.219324+00:00",
+        "created_on": "2014-10-02T16:30:49.879676+00:00",
+        "slug": "slacktv",
+        "description": "SlackTV shows latest message from slack channels (set it up per channel)",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/slacktv"
+    },
+    {
+        "name": "WTHX-Archive",
+        "readme": "# WTHX Archive\n\nThe archive of all the posts in the WTHX Stream.",
+        "updated_on": "2014-10-09T13:16:55.937084+00:00",
+        "created_on": "2014-10-06T10:26:38.557739+00:00",
+        "slug": "wthx-archive",
+        "description": "Archive of the WTHX Stream",
+        "language": "html/css",
+        "href": "https://bitbucket.org/LUSTlab/wthx-archive"
+    },
+    {
+        "name": "Camera Postura WWW",
+        "readme": "# Camera Postura website installation notes\n\n## Install Node.js if you haven't already\n## Install Bower if you haven't already\n## Install Yeoman if you haven't already\n\t\n\tnpm install -g yo\n\n## After initial clone, get the dependencies\n\ngo to the /src folder\n\t\n\tnpm install\n\tbower install\n\n## After downloading everything we are ready to go! When in deployment, run:\n\t\n\tgrunt serve\n\nThe website will popup in your browser\n\n",
+        "updated_on": "2014-11-03T15:44:58.718752+00:00",
+        "created_on": "2014-10-28T16:14:25.131906+00:00",
+        "slug": "camera-postura-www",
+        "description": "Repository for Camera Postura Website.",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/camera-postura-www"
+    },
+    {
+        "name": "WTTC Data 2",
+        "readme": "# WTTC Data\n This is a cms (backend) for wttc-datatool. \n\n\n# Notes\n* it is completely separated from the frontend (frontend has its own api to access to the database)\n\n# Local\n* Create a virtual host named `wttc-admin.localhost`.\n* development: upadte `src/app/config/config.env.php` with your database details.\n\n#build\n* Run `bower install` from the `src` directory.\n* Run `composer install` or `php composer.phar install` from the `src` directory.\n\n\n#deployment\n* build on server\n* update `src/app/config/config.prod.php` with your database details.\n* rename conf file to `config.env.php`\n* update `AuthUserFile` in `src/public/.htaccess` file to absolute path of root.\n* generate and add a `.htpasswd` file to the root directory.\n\n\n## Possible queries\n\n- all data for all countries in all years\n- all data of type x for all countries in all years\n- all data for country x in all years\n- all data for all countries in year x\n- all data of type x for country y in all years\n- all data of type x for all countries in year y\n- all data for country x in year y\n- all data of type x for country y in year z",
+        "updated_on": "2017-04-11T08:38:36.927988+00:00",
+        "created_on": "2014-11-10T17:14:24.749728+00:00",
+        "slug": "wttc-data-2",
+        "description": "",
+        "language": "php",
+        "href": "https://bitbucket.org/LUSTlab/wttc-data-2"
+    },
+    {
+        "name": "wttc-dataviz",
+        "readme": "# WTTC Data Visualisation\n\nSketches and more\n\n## Data errors\nData\t\t\t|\tCountry\t\t\t\t\t|\tValue\t|\tYear\n----------------|---------------------------|-----------|-------\nALLTTQ_TOT!%SH\t|\tAntigua and Barbuda\t\t|\t-2100.0 |\t1991\nALLTTQ_TOT!%SH\t|\tAntigua and Barbuda\t\t|\t-2000.0 |\t1992\nALLTTQ_TOT!%SH\t|\tAntigua and Barbuda\t\t|\t-1900.0 |\t1993\nALLTTQ_TOT!%SH\t|\tEcuador\t\t\t\t\t|\t-2400.0\t|\t1988\nALLTTQ_TOT!%SH\t|\tEcuador\t\t\t\t\t|\t-2300.0\t|\t1989\nALLTTQ_TOT!%SH\t|\tBritish Virgin Islands\t|\t-2400.0\t|\t1988\nALLTTQ_TOT!%SH\t|\tBritish Virgin Islands\t|\t-2300.0\t|\t1989\nALLTTQ_TOT!%SH\t|\tBritish Virgin Islands\t|\t-2200.0\t|\t1990\nALLTTQ_TOT!%SH\t|\tBritish Virgin Islands\t|\t-2100.0\t|\t1991\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t1500.0\t|\t2027\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t1600.0\t|\t2028\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t1700.0\t|\t2029\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t1800.0\t|\t2030\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t1900.0\t|\t2031\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t2000.0\t|\t2032\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t2100.0\t|\t2033\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t2200.0\t|\t2034\nALLTTQ_TOT!%SH\t|\tMacau\t\t\t\t\t|\t2300.0\t|\t2035\nALLTTQ_TOT!%SH\t|\tMaldives\t\t\t\t|\t-600.0\t|\t2006\nALLTTQ_TOT!%SH\t|\tAzerbaijan\t\t\t\t|\t-2400.0\t|\t1988\nALLTTQ_TOT!%SH\t|\tAzerbaijan\t\t\t\t|\t-2300.0\t|\t1989\nALLTTQ_TOT!%SH\t|\tBosnia-Herzegovina\t\t|\t-2400.0\t|\t1988\nALLTTQ_TOT!%SH\t|\tBosnia-Herzegovina\t\t|\t-2300.0\t|\t1989\nALLTTQ_TOT!%SH\t|\tBosnia-Herzegovina\t\t|\t-2200.0\t|\t1990\nALLTTQ_TOT!%SH\t|\tBosnia-Herzegovina\t\t|\t-2100.0\t|\t1991\nALLTTQ_TOT!%SH\t|\tBosnia-Herzegovina\t\t|\t-2000.0\t|\t1992\nALLTTQ_TOT!%SH\t|\tGeorgia\t\t\t\t\t|\t-2400.0\t|\t1988\nALLTTQ_TOT!%SH\t|\tGeorgia\t\t\t\t\t|\t-2300.0\t|\t1989\nALLTTQ_TOT!%SH\t|\tGeorgia\t\t\t\t\t|\t-2200.0\t|\t1990\nALLTTQ_TOT!%SH\t|\tGeorgia\t\t\t\t\t|\t-2100.0\t|\t1991\nALLTTQ_TOT!%SH\t|\tGeorgia\t\t\t\t\t|\t-2000.0\t|\t1992\nALLTTQ_TOT!%SH\t|\tRussian Federation\t\t|\t-2400.0\t|\t1988\nALLTTQ_TOT!%SH\t|\tRussian Federation\t\t|\t-2300.0\t|\t1989\nALLTTQ_TOT!%SH\t|\tRussian Federation\t\t|\t-2200.0\t|\t1990\nALLTTQ_TOT!%SH\t|\tRussian Federation\t\t|\t-2100.0\t|\t1991",
+        "updated_on": "2014-11-20T14:16:08.347006+00:00",
+        "created_on": "2014-11-11T17:23:15.966276+00:00",
+        "slug": "wttc-dataviz",
+        "description": "Data visualisation sketches for WTTC",
+        "language": "processing",
+        "href": "https://bitbucket.org/LUSTlab/wttc-dataviz"
+    },
+    {
+        "name": "Myrtle 2014 Frontend",
+        "updated_on": "2017-05-09T17:31:51.305836+00:00",
+        "created_on": "2014-11-17T16:43:54.145058+00:00",
+        "slug": "myrtle-2014-frontend",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/myrtle-2014-frontend"
+    },
+    {
+        "name": "FrontDoor",
+        "readme": "# Smart Front Door\n## Setup\n* Make sure `motion` is running on the Raspberry Pi.\n* Connect input to GND and GPIO7.\n* `sudo python door.py`\n\n## Background task\nWhile the script is running:\n\n* CTRL+Z\n* `bg`\n* `disown 1`",
+        "updated_on": "2014-11-18T13:34:19.901545+00:00",
+        "created_on": "2014-11-18T13:27:49.816637+00:00",
+        "slug": "frontdoor",
+        "description": "Frontdoor Slack integration",
+        "language": "python",
+        "href": "https://bitbucket.org/LUSTlab/frontdoor"
+    },
+    {
+        "name": "MDP-v2",
+        "readme": "# This is my README\n\nLocal Server Name: mdp.localhost\n\nTo Deploy:\n\nChange constant 'IS_LIVE' to true in:\napplication/config/constants.php\ncms/inc/php/config/config.php\n\nAnd check the resources/php/config/config.php file for the right config settings... These aren't changed by the IS_LIVE constant. Also make sure resources/scripts/import.sh is executable, has the correct path to PHP and being executed every hour. ",
+        "updated_on": "2015-12-03T11:03:08.512387+00:00",
+        "created_on": "2014-11-18T17:33:51.102770+00:00",
+        "slug": "mdp-v2",
+        "description": "New version MDP",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/mdp-v2"
+    },
+    {
+        "name": "wttc-datatool",
+        "readme": "# WTTC Data tool\n\n## Requirements\n\nPHP, Apache with Virtual Hosts, MySQL, Memcached server and Memcached PHP extension.\n\n## Notes\n\n* Create a virtual host named `wttc-datatool.local`.\n* Copy `src/config/config.template.php` to `src/config/config.php` and fill in your database details.\n* Run `bower install` from the `src` directory.\n\n\n## Possible issues \n* Since the application uses memchased, in case of importing new database you need to free up memchashed!  \n\n## API usage\n\nSend a `POST` request to `http://wttc-datatool.local/api/` with a `payload` parameter that contains a valid JSON string. For example:\n\n```\npayload={\n\t\"countries\": [\n\t\t\"NETH\",\n\t\t\"FRANCE\"\n\t],\n\t\"years\": {\n\t\t\"from\": 1995,\n\t\t\"to\": 2001\n\t},\n\t\"metrics\": [\"pop\"]\n}\n```",
+        "updated_on": "2017-03-30T13:59:27.645861+00:00",
+        "created_on": "2014-11-25T09:51:00.483490+00:00",
+        "slug": "wttc-datatool",
+        "description": "WTTC Data tool site",
+        "language": "php",
+        "href": "https://bitbucket.org/LUSTlab/wttc-datatool"
+    },
+    {
+        "name": "greyhat-platform",
+        "readme": "# readme\n\n> Keystone applies different settings in production and development modes. The environment will default to `development`, so you should set the `NODE_ENV` environment variable to `production` on your production servers for better performance.\n\n[greyhat.lustlab.net](http://greyhat.lustlab.net)\n\n---\n\n\n# run\n\n```shell\nmongod\nnodemon [--ext 'js'] keystone.js\nopen http://localhost:XXXX/\n```\n\n# updating keystone\n\n```shell\nnpm install --save keystone\n```\n\n# helpers (to be used in templates)\n- keystone exposes [`locals.utils`](https://github.com/keystonejs/keystone-utils).\n\t- I made some custom `locals.helpers`.\n- db field helpers can be accessed via `_.<fieldname>.<helper>` `td #{thread._.createdAt.format('YYYY-MM-DD HH:mm:ss')}`. for instance [`format()`](https://github.com/keystonejs/keystone/blob/master/lib/fieldTypes/date.js#L44).\n\t- [explanation](https://groups.google.com/forum/#!searchin/keystonejs/underscore/keystonejs/_BUpUPSrx-o/-keNmxRUB-sJ)\n\n---\n\n# DEPLOYMENT\n\n[in order for `bower install` to work](http://stackoverflow.com/a/21790275/2839801) on the lustlab server, I had to do\n\n```shell\ngit config --global url.\"https://\".insteadOf git://\ngit config --list\nbower install\n```\n\nin order to change it back, do `git config --global --unset url.\"https://\".insteadOf`.\n\n__apache site config:__\n```xml\n<VirtualHost *:80>\n\tServerAdmin webmaster@localhost\n\tServerName greyhat.lustlab.net\n\tServerAlias greyhat.lustlab.net\n\n\tDocumentRoot /var/www/sites/greyhat\n\t<Directory />\n\t\tOptions FollowSymLinks\n\t\tAllowOverride All\n\t</Directory>\n\n\tProxyRequests on\n\tProxyPass / http://localhost:3000/\n</VirtualHost>\n```\n\n---\n\n# CONFIG\n\non server (production):\n\n```\nNODE_ENV=production\nPORT=3000\nMANDRILL_API_KEY={KEY}\nMANDRILL_USERNAME={NAME}\n```\n\nduring development:\n\n```\nMANDRILL_API_KEY={KEY}\nMANDRILL_USERNAME={NAME}\n```\n\n---\n\n# notes\n\ncommands:\n\n```\n# run locally:\nnodemon keystone.js\n\n# on the server:\npm2 start --name \"greyhat\" keystone.js\npm2 restart greyhat\npm2 ls\npm2 stop all\n\n# to start pm2 processes on boot:\n# http://pm2.keymetrics.io/docs/usage/startup/\npm2 startup\npm2 save\n\nmongodump --db greyhat -o ~/projects/greyhat/platform/dbdump\nmongo greyhat --eval \"db.dropDatabase();\"\nmongorestore --db greyhat .\n```\n",
+        "updated_on": "2016-04-12T17:12:46.304465+00:00",
+        "created_on": "2015-01-09T13:19:29.770894+00:00",
+        "slug": "greyhat-platform",
+        "description": "greyhat platform",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/greyhat-platform"
+    },
+    {
+        "name": "WTTC Data administration",
+        "updated_on": "2015-01-20T16:07:36.044910+00:00",
+        "created_on": "2015-01-20T16:07:35.968257+00:00",
+        "slug": "wttc-data-administration",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/wttc-data-administration"
+    },
+    {
+        "name": "gulp-collection-of-sketches",
+        "readme": "# what is it?\n\ngulp setup for collections of sketches that share common {css, js, jade} files. \n\n---\n\n# install\n\n```shell\nnpm i -g bower\nnpm i -g browser-sync\nnpm i\nbower init\n```\n\n---\n\n# run\n\nthe [`gulpfile.js`](./gulpfile.js) dynamically creates tasks for all sub-directories.\n\n```\n├── _shared # all shared files\n│   ├── css # sass ouput\n│   ├── jade\n│   │   └── partial.jade\n│   ├── js\n│   │   └── shared.js\n│   └── sass\n│       └── site.sass\n├── gulpfile.js\n[...]\n├── sketch-subdir\n│   └── src # all source files\n│       ├── index.jade\n│       ├── js\n│       │   └── index.js\n│       └── sass\n│           └── main.sass\n│   ├── build # output dir for `default` task\n│   ├── dist # output dir for `dist` task\n```\n\nthe default task – `gulp` – watches everything for changes, re-compiles, and refreshes the browser. the browser-synced proxy runs on `http://localhost:3000` by default.\n\nindividual subdirs can be built for distribution with `gulp --dist <sub-dir-name>`. all the sketch files (including shared files) are compiled and copied to the `dist` directory. that way you can *freeze* a sketch with all its dependencies.\n\ndirectory names are configurable in the [`gulpfile.js`](./gulpfile.js).\n\nafter adding a new subdir, restart `gulp`.\n",
+        "updated_on": "2015-06-02T10:36:19.455446+00:00",
+        "created_on": "2015-03-16T13:24:55.285555+00:00",
+        "slug": "gulp-collection-of-sketches",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/gulp-collection-of-sketches"
+    },
+    {
+        "name": "lely-smartwall-cms",
+        "readme": "#Lely Smartwall CMS\n\nThis project lives in a virtual machine managed by Vagrant. To run to project you first need to install Vagrant. See [their docs](http://docs.vagrantup.com/v2/getting-started/) for details.\n\nOnce Vagrant is install you can run _vagrant up_ to start the virtual machine. And yes, this takes a while... Then add this line to your hosts file:\n\n    192.168.56.101  lely-cms.dev\n\nThe project exists of an API and frontend part. The CMS is based on the [Laravel framework](http://laravel.com/) and should run as soon as the VM has been created. For the CMS some additional steps are needed:\n\nOn your local machine, in the angular directory run:\n\n    npm install\n\nTo watch for changes in files while developing and re-build the frontend, run:\n\n    gulp dev\n\n\n\n\n",
+        "updated_on": "2015-06-23T07:28:44.027363+00:00",
+        "created_on": "2015-04-23T17:04:42.403729+00:00",
+        "slug": "lely-smartwall-cms",
+        "description": "CMS for Lely smartwall to manage posters and videos",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lely-smartwall-cms"
+    },
+    {
+        "name": "rezonesupersound",
+        "updated_on": "2015-06-02T10:35:01.884478+00:00",
+        "created_on": "2015-05-04T14:01:45.491948+00:00",
+        "slug": "rezonesupersound",
+        "description": "supercollider code for rezone",
+        "language": "supercollider",
+        "href": "https://bitbucket.org/LUSTlab/rezonesupersound"
+    },
+    {
+        "name": "Unmapping Europe",
+        "readme": "# Unmapping Europe\n\nThis is the website for the Mediafonds@Sandberg 2015 workshop. \n\n##Installation\nTo build this project on your local machine you need to clone this repository and have _bower_ and _compass_ installed. \n\nOnce you've cloned this project you should create a virtual host linking to the directory. Then navigate to the repository in _terminal_  and run:\n\n    bower install\n    compass compile\n\n## Development\nTo develop / make changes on the stylesheets you should run:\n\n    compass watch\n\n## Deployment\n\nTo deploy the website you can just copy all the contents to the server (unmappingeurope.nl).",
+        "updated_on": "2015-05-18T13:34:55.130736+00:00",
+        "created_on": "2015-05-12T09:24:26.789561+00:00",
+        "slug": "unmapping-europe",
+        "description": "website Mediafonds@Sandberg 2015\r\nUnmapping Europe",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/unmapping-europe"
+    },
+    {
+        "name": "cor-app",
+        "updated_on": "2016-02-16T16:13:52.938565+00:00",
+        "created_on": "2015-05-19T13:01:52.581537+00:00",
+        "slug": "cor-app",
+        "description": "App for Cartography of Rest",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/cor-app"
+    },
+    {
+        "name": "lightcontroller",
+        "updated_on": "2016-07-03T11:10:35.501685+00:00",
+        "created_on": "2015-06-10T13:45:33.049641+00:00",
+        "slug": "lightcontroller",
+        "description": "fork from edwins",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lightcontroller"
+    },
+    {
+        "name": "pages-watch-dir",
+        "readme": "# pages-watch-dir\n\n- `watch.js` (can be used as a replacement of owncloud file change trigger)\n\t- watches a directory for filesystem events\n\t- calls webhook\n- `server.js`\n\t- listens for webhook\n\t\t- waits for inactivity, before commiting all changes (per subdirectory)\n\t- serves the frontend\n\n\n# install\n\n```\ngit clone https://frederic_lust@bitbucket.org/lustlab/pages-watch-dir.git\ncd pages-watch-dir\nnpm install\n```\n\ncreate `archive` directory and init git repo:\n\n```\nmkdir archive\ncd archive\ngit init\ngit commit --allow-empty -m \"init\"\ncd ..\n```\n\n\n# run\n\n```\n# locally\nnode[mon] server.js\n\n# on server\npm2 start --name 'pages-watch-dir' server.js\n```\n\n\n# configuration\n\n`.env` file:\n\n```\nDEBUG=watch,files,git,webhook,db,conversion\nINACTIVITY_TIMEOUT=10000\nARCHIVE_PATH=./archive\nOWNCLOUD_SYNC_SCRIPT=../sync-archive.sh\nENVIRONMENT=development\nDB_NAME=pages-archive\nPORT=3099\n```\n\n\n# frontend\n\nis a [react](https://facebook.github.io/react/) / [redux](https://github.com/rackt/redux) app, by default at [http://localhost:3099](http://localhost:3099).\n\nduring development run `gulp serve` to watch / compile everything.\n",
+        "updated_on": "2016-08-11T14:25:26.915880+00:00",
+        "created_on": "2015-07-27T07:50:46.626393+00:00",
+        "slug": "pages-watch-dir",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pages-watch-dir"
+    },
+    {
+        "name": "scVeghel",
+        "updated_on": "2015-10-05T10:17:49.297236+00:00",
+        "created_on": "2015-07-28T09:42:26.367034+00:00",
+        "slug": "scveghel",
+        "description": "supercollider code for veghel",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/scveghel"
+    },
+    {
+        "name": "WTHX WEB",
+        "readme": "# README #\n\nThis README would normally document whatever steps are necessary to get your application up and running.\nNow it actually does it.\n\n### What is this repository for? ###\n\n* WTHX website\n* 3.0.0\n* [here](https://wthx.org)\n\n### How do I get set up? ###\n\n* go in terminal and in rootfolder\n* `sass --watch scss:css` to merge your scss files (only edit the scss files)\n* `php -S localhost:8080` or `python -m SimpleHTTPServer 8080` or whatever method you prefer\n\n### Contribution guidelines ###\n\n* tbd\n\n### Who do I talk to? ###\n\n* Jakob, since Bram is not here",
+        "updated_on": "2016-09-16T09:06:33.714224+00:00",
+        "created_on": "2015-07-29T13:49:51.751963+00:00",
+        "slug": "wthx-web",
+        "description": "The git repository for the WTHX website",
+        "language": "html/css",
+        "href": "https://bitbucket.org/LUSTlab/wthx-web"
+    },
+    {
+        "name": "trespass-anm2",
+        "updated_on": "2017-01-10T08:50:08.482373+00:00",
+        "created_on": "2015-08-06T13:12:53.366923+00:00",
+        "slug": "trespass-anm2",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/trespass-anm2"
+    },
+    {
+        "name": "kpnsketches",
+        "updated_on": "2015-08-12T15:38:56.892270+00:00",
+        "created_on": "2015-08-07T12:43:22.195836+00:00",
+        "slug": "kpnsketches",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/kpnsketches"
+    },
+    {   "developer":"Jakob Schlötter",
+        "projects":"Little Babylon",
+        "name": "zandvliet-ledcontroller",
+        "updated_on": "2015-11-20T15:24:23.862031+00:00",
+        "created_on": "2015-08-17T09:19:44.044062+00:00",
+        "slug": "zandvliet-ledcontroller",
+        "description": "first sketchout of zandvliet based on universallightcontroller. control large amounts of ledstrips with java and microcontrollers",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/zandvliet-ledcontroller"
+    },
+    {
+        "name": "kpn-smartwalls",
+        "updated_on": "2016-03-07T11:07:14.047469+00:00",
+        "created_on": "2015-08-19T09:51:49.234689+00:00",
+        "slug": "kpn-smartwalls",
+        "description": "Smart walls software for KPN",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/kpn-smartwalls"
+    },
+    {
+        "name": "WTHX-Interactive",
+        "readme": "# WTHX Interactive\n\n## Installation\nTo start, run `npm install`, which will automatically install dependencies, package the source into the distribution folder, and start the server.\n\n## Socket events\n| event | description |\n|-------|-------------|\n| newpost | fires when a new post has been added, contains the post in JSON format |\n| newteams | fires when new teams have been generated, contains the new teams in JSON format |\n| filter | fires when a new filter combination is activated, contains the selected filters |\n| view | fires when a new view has been selected, contains the selected view |\n| updatedteam | fires when team has been updated, contains the team information |\n\n## REST API\n\n| endpoint | method | description | parameters |\n|-------------------|--------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| /api/upload | POST | upload new images | `image` _(required)_ the image file |\n| /api/posts | POST | make a new post | `image` image url <br/>`caption` image caption <br/>`timestamp` <br/>`table` table name <br/>`round` round number <br/>`tags` array of tags |\n| /api/posts | GET | get all posts |  |\n| /api/posts/:query | GET | search for posts | `query` _(required)_ query in the format of `table=Alpha&round=2` |\n| /api/posts/:id | PUT | update posts | `id` _(required)_ id of the post <br/>`image` image url <br/>`caption` image caption <br/>`timestamp` <br/>`table` table name <br/>`round` round number <br/>`tags` array of tags |\n| /api/posts/:id | DELETE | delete a post | `id` _(required)_ id of the post |\n| /api/teams | POST | generate new teams | `round` _(required)_ round number |\n| /api/teams | GET | get all teams (past and current) |  |\n| /api/teams/:query | GET | search for teams | `query` _(required)_ query in the format of `table=Alpha&round=2` |\n| /api/view | POST | change the view | `view` _(required)_ new view |\n| /api/filter | POST | change the filters | `filters` _(required)_ the filters to apply |",
+        "updated_on": "2015-09-29T13:02:31.946206+00:00",
+        "created_on": "2015-09-08T16:01:36.482280+00:00",
+        "slug": "wthx-interactive",
+        "description": "The on-site archiving application",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/wthx-interactive"
+    },
+    {
+        "name": "net.loadbang.osc",
+        "readme": "# `net.loadbang.osc` [![Build Status](https://secure.travis-ci.org/cassiel/net.loadbang.osc.png)](http://travis-ci.org/cassiel/net.loadbang.osc) [![Dependency Status](https://www.versioneye.com/user/projects/52e4ddccec1375b57600002a/badge.png)](https://www.versioneye.com/user/projects/52e4ddccec1375b57600002a)\n\nThis is a simple [OSC][osc] library used by our [MaxMSP][max] packages,\nand elsewhere (such as directly from Clojure). It is missing some\nfeatures (specifically, wildcard matching of paths, and timestamping),\nbut it does implement OSC-over-TCP as well as the more usual\nOSC-over-UDP.\n\nFor a Clojure-friendly wrapper to this package, see the lower-level parts of\n[`monome-fu`](https://github.com/cassiel/monome-fu).\n\n`net.loadbang.osc` and its dependencies are available in the central Maven repo:\n\n- leiningen:\n\n        [net.loadbang/net.loadbang.osc \"1.6.1\"]\n\n- maven:\n\n        <dependency>\n          <groupId>net.loadbang</groupId>\n          <artifactId>net.loadbang.osc</artifactId>\n          <version>1.6.1</version>\n        </dependency>\n\n## Documentation\n\nThe JavaDocs can be generated from Maven by\n\n        mvn javadoc:javadoc\n\nThe documentation is written to `target/site/apidocs`.\n\n## License\n\nDistributed under the [GNU General Public License][gpl].\n\nCopyright (C) 2013 Nick Rothwell.\n\n[max]: http://cycling74.com/products/max/\n[lib]: https://github.com/cassiel/net.loadbang.lib\n[osc]: http://opensoundcontrol.org/\n[gpl]: http://www.gnu.org/copyleft/gpl.html\n",
+        "updated_on": "2015-09-29T12:51:21.572409+00:00",
+        "created_on": "2015-09-16T14:33:08.828422+00:00",
+        "slug": "net.loadbang.osc",
+        "description": "Jakobs fork of a quite alright osc library",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/net.loadbang.osc"
+    },
+    {
+        "name": "WTHX2015App",
+        "updated_on": "2015-11-04T14:18:55.108152+00:00",
+        "created_on": "2015-09-18T16:04:45.489826+00:00",
+        "slug": "wthx2015app",
+        "description": "front-end for wthx 2015",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/wthx2015app"
+    },
+    {
+        "name": "zandvliet",
+        "updated_on": "2016-11-24T11:02:48.058715+00:00",
+        "created_on": "2015-09-21T12:12:45.280661+00:00",
+        "slug": "zandvliet",
+        "description": "Zandvliet LED controller",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/zandvliet"
+    },
+    {
+        "name": "Climap",
+        "updated_on": "2015-12-14T13:05:27.530607+00:00",
+        "created_on": "2015-09-22T09:13:54.985568+00:00",
+        "slug": "climap",
+        "description": "Understanding the existing climate regime is critical to ensuring its ongo- ing viability into the future, which is why ‘mapping’ the convention in all its complexity is so important. But achieving a common understanding is of little value if it does not translate into action. Consequently, the project focuses on enabling all stakeholders to design the regime, and thereby participate mean- ingfully in the discussions around what the regime should like going into the next commitment period. The research phases are designed deliberately to engage stakeholders in a process of critical reflection on the strengths and weaknesses of the current regime, and how to improve it into the future. ",
+        "language": "javascript",
+        "href": "https://bitbucket.org/LUSTlab/climap"
+    },
+    {
+        "name": "zandvliet-cms",
+        "readme": "#Zandvliet Ledwall CMS\n\nThis project lives in a virtual machine running [Homestead](http://laravel.com/docs/5.1/homestead) managed by Vagrant. To run to project you first need to install Vagrant. See [their docs](http://docs.vagrantup.com/v2/getting-started/) for details.\n\nOnce Vagrant is install you can run _vagrant up_ to start the virtual machine. And yes, this takes a while... Then add this line to your hosts file:\n\n    192.168.10.10  zandvliet.dev\n\nWhen vagrant is done installing the virtual machine ssh into the machine by using the command _vagrant ssh_ and navigate to _/home/vagrant/vm/cms_ and run:\n\t\n\tsudo composer install\n\tnpm install\n\nAfter this navigate to _/home/vagrant/vm/cms/resources_ and run:\n\n\tbower install\n\nThe next step is to setup the database. To do this navigate back to _/home/vagrant/vm/cms_ and run the following commands:\n\n\tphp artisan migrate\n\tphp artisan db:seed\n\tphp artisan key:generate\n\nNow you're ready to start developing. To do this navigate back to _/home/vagrant/vm/cms_ and run _gulp copy_ to copy some Bower components and other resources to the public folder. The final step is to run _gulp watch_ to update the project while you're making changes.",
+        "updated_on": "2016-01-08T11:47:41.854970+00:00",
+        "created_on": "2015-09-23T17:13:13.140406+00:00",
+        "slug": "zandvliet-cms",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/zandvliet-cms"
+    },
+    {
+        "name": "AbletonVeghel",
+        "readme": "Installation Procedure Sound Veghel\n\n-- essential\n\n1. Install Ableton Live incl. Max for Live\n2. Copy folder LiveOSC/ in \"Midi Remote Scripts\"-folder\n\t(probably \\ProgramData\\Ableton\\Live 9.2.2\\Resources\\MIDI Remote Scripts\\ )\n\tsee also https://www.ableton.com/en/help/article/install-third-party-remote-script/\n\n-- testing ableton setup\n\n1. install pyOSC as described in pyosc/\n2. run python/vegheltools.py -h to see available options\n\n\nTrouble shooting:\n?: Live does not react to OSC input\n-> The port might be clogged. close Ableton Live and run \"python python/portKill.py -k 9009\".\n   This happens for example if you open Max for Live during a session to edit a midi effect.",
+        "updated_on": "2015-10-19T15:32:12.736556+00:00",
+        "created_on": "2015-09-30T09:47:44.567715+00:00",
+        "slug": "abletonveghel",
+        "description": "De Ableton sessie voor Veghel",
+        "language": "xml",
+        "href": "https://bitbucket.org/LUSTlab/abletonveghel"
+    },
+    {
+        "name": "pages-archive-cms",
+        "readme": "# run\n\na [keystone](http://keystonejs.com/) cms.\n\nuses mongodb, so make sure it's running:\n\n```\nmongod\n```\n\nrestart on changes:\n\n```\nnodemon keystone.js\n```\n\nthere is not really a frontend:\n\n```\ncd frontend\ngulp serve\n```\n\n```\nopen http://localhost:3000/keystone\n```\n\nYou need to set some environment variables using a dotenv file. It should look something like this:\n\n```\nDEBUG=watch,files,git,webhook,db,conversion\nENV=development\nCOOKIE_SECRET=aslzxclahsdjkh\nDB_NAME=pages-archive\n\nARCHIVE_PATH=/preferably/absolute/path/to/archive\nMEDIA_PATH=/preferably/absolute/path/to/media\nINACTIVITY_TIMEOUT=2000\n```\n\nIn your media path you should have a directory called ```converted``` and ```images```. The images directory should also contain 3 directories named ```large```, ```medium```, and ```small``` to host images that are converted for web.\n\nTo be able to convert the right files you need to have Pandoc and ImageMagick installed.\n",
+        "updated_on": "2016-10-17T15:02:36.298312+00:00",
+        "created_on": "2015-10-13T16:27:27.201837+00:00",
+        "slug": "pages-archive-cms",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pages-archive-cms"
+    },
+    {
+        "name": "pages-owncloud-activity",
+        "updated_on": "2016-08-11T14:25:58.502924+00:00",
+        "created_on": "2015-10-16T11:51:11.046730+00:00",
+        "slug": "pages-owncloud-activity",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pages-owncloud-activity"
+    },
+    {   "projects": ["Pages Website"],
+        "developer": ["Amir Houieh", "Gabor Kerekes"],
+        "name": "pages-gmail-robot",
+        "updated_on": "2017-05-17T13:18:28.227444+00:00",
+        "created_on": "2015-10-19T10:10:19.236358+00:00",
+        "slug": "pages-gmail-robot",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pages-gmail-robot"
+    },
+    {   "developer": "Unknown",
+        "name": "google-image-search",
+        "updated_on": "2015-10-28T10:06:51.753152+00:00",
+        "created_on": "2015-10-28T10:06:09.851450+00:00",
+        "slug": "google-image-search",
+        "description": "This tool lets you use google image search through java. In case if you want to implement in an application",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/google-image-search"
+    },
+    {
+        "name": "pages-git-treebuilder",
+        "readme": "script that goes through all commits of a branch and creates a new dir tree structure, containing all versions of the files per sub-directory.\n\nrecommended reading: [Git Internals - Plumbing and Porcelain](http://www.git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)\n\ndependencies:\n- [pygit2](http://www.pygit2.org/)\n\n---\n\nto create an example repo:\n\n```shell\ngit init\ngit commit --allow-empty -m 'init'\n\nmkdir article1\nmkdir article2\n\ndate > article1/index.md\ngit add article1/index.md\ngit commit -m 'change'\nsleep 2\n\ndate > article2/index.md\ngit add article2/index.md\ngit commit -m 'change'\nsleep 2\n\ndate > article1/index.md\ngit add article1/index.md\ngit commit -m 'change'\nsleep 2\n\ndate > article2/index.md\ngit add article2/index.md\ngit commit -m 'change'\n```\n",
+        "updated_on": "2016-08-11T14:25:41.205388+00:00",
+        "created_on": "2015-11-05T14:30:42.560704+00:00",
+        "slug": "pages-git-treebuilder",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pages-git-treebuilder"
+    },
+    {
+        "name": "wthx-galaxy",
+        "readme": "# WTHX Galaxy\n\n## Installing\n1. Install Node 4.1.2\n2. Install MongoDB and keep it running.\n3. `mongorestore ./db/wthx --db wthx`\n4. `npm install`\n\n## Running\n1. `node src`\n2. The visualization is available via `http://localhost:8080`\n3. The remote is available via `http://localhost:8080/remote`\n",
+        "updated_on": "2015-11-11T17:05:49.778879+00:00",
+        "created_on": "2015-11-08T22:04:59.778297+00:00",
+        "slug": "wthx-galaxy",
+        "description": "Another way to view the WTHX database",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/wthx-galaxy"
+    },
+    {
+        "name": "forum-screen",
+        "readme": "# Forum screen\nInformation screen with public transport-, traffic-, and floor information for the Forum building.\n",
+        "updated_on": "2015-12-09T16:00:01.836693+00:00",
+        "created_on": "2015-11-10T09:52:53.955407+00:00",
+        "slug": "forum-screen",
+        "description": "Information screen with public transport-, traffic-, and floor information for the Forum building.",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/forum-screen"
+    },
+    {
+        "name": "motf",
+        "updated_on": "2016-02-05T08:56:20.049081+00:00",
+        "created_on": "2015-11-10T18:43:02.008109+00:00",
+        "slug": "motf",
+        "description": "MOTF type design tool",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/motf"
+    },
+    {
+        "name": "forum-app",
+        "readme": "# Forum App\n\nApplication that visualizes the wind in The Hague.\n",
+        "updated_on": "2016-01-21T10:57:53.638144+00:00",
+        "created_on": "2015-11-22T21:50:09.985881+00:00",
+        "slug": "forum-app",
+        "description": "App for Forum. It visualizes the wind...",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/forum-app"
+    },
+    {
+        "name": "forum-cms",
+        "readme": "# Forum CMS\nCMS for Forum.",
+        "updated_on": "2015-12-14T14:10:32.326225+00:00",
+        "created_on": "2015-11-30T17:12:08.749903+00:00",
+        "slug": "forum-cms",
+        "description": "Forum CMS",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/forum-cms"
+    },
+    {
+        "name": "trespass-an2",
+        "readme": "# README\n",
+        "updated_on": "2016-08-04T13:05:11.543013+00:00",
+        "created_on": "2015-12-03T14:04:22.672457+00:00",
+        "slug": "trespass-an2",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/trespass-an2"
+    },
+    {
+        "name": "schyperlocator",
+        "updated_on": "2016-02-16T17:49:14.306018+00:00",
+        "created_on": "2015-12-03T22:17:42.929569+00:00",
+        "slug": "schyperlocator",
+        "description": "supercollider sound stuff hyper hyper",
+        "language": "supercollider",
+        "href": "https://bitbucket.org/LUSTlab/schyperlocator"
+    },
+    {
+        "name": "VST.NET Plugin Veghel",
+        "updated_on": "2015-12-14T16:27:57.122426+00:00",
+        "created_on": "2015-12-14T15:15:23.005784+00:00",
+        "slug": "vst.net-plugin-veghel",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/vst.net-plugin-veghel"
+    },
+    {
+        "name": "forum-controller",
+        "readme": "# Forum Controller\n\nData controller for Forum.\n",
+        "updated_on": "2015-12-21T17:21:30.807320+00:00",
+        "created_on": "2015-12-21T14:04:08.794993+00:00",
+        "slug": "forum-controller",
+        "description": "Data controller for Forum.",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/forum-controller"
+    },
+    {
+        "name": "trespass-attacktree-xml2json",
+        "updated_on": "2016-04-29T09:45:53.616782+00:00",
+        "created_on": "2016-01-11T13:18:11.206902+00:00",
+        "slug": "trespass-attacktree-xml2json",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/trespass-attacktree-xml2json"
+    },
+    {
+        "name": "webapp-starter",
+        "readme": "# Web App Boilerplate\n",
+        "updated_on": "2016-02-18T12:40:51.696240+00:00",
+        "created_on": "2016-01-13T10:38:42.433705+00:00",
+        "slug": "webapp-starter",
+        "description": "A boilerplate for web applications.",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/webapp-starter"
+    },
+    {
+        "name": "arms-trade",
+        "readme": "# Arms Trade (0.0.2)\n\n##Note\nWe try to keep the master branch as it is. And at this stage lets work on `dev` branch.   \n\n\n###Installation\n`npm install`\n\n###Start Dev Server\n`npm run dev`\n\n###Minify and Production\n`webpack --config webpack-production.config.js -p --bail`\nFiles will be produced to `dist`",
+        "updated_on": "2016-11-17T09:47:44.475816+00:00",
+        "created_on": "2016-01-13T17:36:40.265559+00:00",
+        "slug": "arms-trade",
+        "description": "",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/arms-trade"
+    },
+    {
+        "name": "Responsible Data",
+        "readme": "Herein lies the source code for the Responsible Data project.\n\n```\nnpm install\n```\n```\ngulp sass\ngulp browserify\ngulp serve\n```\n\nhope it doesn't crash. good luck!\n\n\nto deploy\n```\nnpm install\ngulp sass\ngulp browserify\nnode app.js\n```\n\naccess it at ```localhost:8085```\n",
+        "updated_on": "2016-04-13T11:49:54.726144+00:00",
+        "created_on": "2016-02-02T12:51:41.785343+00:00",
+        "slug": "responsible-data",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/responsible-data"
+    },
+    {
+        "name": "Weissensee2016",
+        "updated_on": "2016-02-08T14:21:34.654674+00:00",
+        "created_on": "2016-02-08T14:18:52.034027+00:00",
+        "slug": "weissensee2016",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/weissensee2016"
+    },
+    {
+        "name": "modular-body-web",
+        "updated_on": "2017-03-13T17:32:13.658818+00:00",
+        "created_on": "2016-02-16T13:01:02.200581+00:00",
+        "slug": "modular-body-web",
+        "description": "modular body web framwork",
+        "language": "javascript",
+        "href": "https://bitbucket.org/LUSTlab/modular-body-web"
+    },
+    {
+        "name": "webapp-starter-frontend",
+        "updated_on": "2016-07-17T17:21:56.358383+00:00",
+        "created_on": "2016-03-01T14:48:29.240537+00:00",
+        "slug": "webapp-starter-frontend",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/webapp-starter-frontend"
+    },
+    {
+        "name": "scTedxExperiments",
+        "updated_on": "2016-05-02T17:37:06.017618+00:00",
+        "created_on": "2016-03-15T15:05:43.406987+00:00",
+        "slug": "sctedxexperiments",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/sctedxexperiments"
+    },
+    {
+        "name": "hubbub-backend",
+        "readme": "# Hubbub API\n\n## What it should do\nThe project should provide the backend for the [Hubbub CoR app](https://corapp.org). This means it’s able to:\n- Register users\n- Send notifications to users\n- Store the data/sounds that users submit\n- Analyse the sound files.\n\n## Stack\n- Using [Express](http://expressjs.com/) as the Node.JS web framework.\n- MySQL database in combination with [Knex](http://knexjs.org/).\n- Sound analysis is being done using the Python bindings for [Essentia](essentia.upf.edu).\n- [Agenda](https://github.com/rschmukler/agenda) for job scheduling.\n- [Webpack](https://webpack.github.io/) as our module bundler.\n- ES6 support via [babel](https://babeljs.io) with [async/await](https://zeit.co/blog/async-and-await) functionality.\n\n## Getting Started\n- First of all, make sure you have NodeJS/NPM (v4.x / v2.x) and a MySQL server (v5.6.x) installed.\n- Install Essential and it’s Python bindings.\n- Install FFMpeg.\n- Make sure you have Knex installed globally (for using the migrations). [Read the docs for this](http://knexjs.org/#Migrations).\n- Create a new database for this project.\n- Create a _.env_ file. Look at the _.env.example_ for what should be in there.\n- Run the Knex migrations by running `knex migrate:latest` in the root of your project.\n- Install all dependencies with `npm install`\n- Make sure you have [nodemon](https://github.com/remy/nodemon) installed globally to watch for changes and restart your server if necessary.\n- Run the job scheduler with `node server/worker.js`\n- Start the server with\t`npm start`\n\n## Development\nDevelopment should be pretty straight forward.\n- All the Python and bash code for sound analysis is in the _analysis_ folder.\n- All the server side code for the API is in the _server_ directory.\n- When you need to make changes to the database you should create a migration using Knex. See their [docs](http://knexjs.org/#Migrations) on how to do that.\n\n## Testing\nSome pretty simple (acceptence) tests have been implemented to test incoming API requests and check their response. The tests are located in `/tests`. To run the tests you run the command `npm run test`.\n\n## Deployment\nSince we’re using Babel we first need to transpile our ES6/ES7 code to ES5. We can do all of this (and more) using the package script.\n- Run `./package.sh` inside the root of your project to create a _dist_ folder.\n- Upload the contents of this folder to _/var/www/backend_ on the server (_cor.lustlab.net_)\n- To restart the server you have to run\n\t- `pm2 restart server`\n\t- `pm2 restart worker`\n\n## Debugging\nIf you want to view to server logs you can run `pm2 logs server` or `pm2 logs worker` on the server. Agenda (the job scheduler) also has a UI in case you want to have an overview of what jobs are going on. You can start this UI by running `pm2 start agendash`. This will make _https://cor.lustlab.net/agenda/_ show an overview of the jobs. Make sure to stop agendash when you’re done debugging with `pm2 stop agendash`.\n    \n",
+        "updated_on": "2016-10-04T12:01:45.761672+00:00",
+        "created_on": "2016-03-17T17:09:11.857336+00:00",
+        "slug": "hubbub-backend",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/hubbub-backend"
+    },
+    {
+        "name": "wpp-nav",
+        "readme": "welcome to the responsible data navigation wrapper app\n\nto run..\n\nnpm install\nnode app.js\n\nto rebuild javascript if edits are made..\n\nnpm run build\n\n",
+        "updated_on": "2016-04-15T10:20:09.757380+00:00",
+        "created_on": "2016-03-21T12:48:04.601104+00:00",
+        "slug": "wpp-nav",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/wpp-nav"
+    },
+    {
+        "name": "dbir",
+        "readme": "Verizon DBIR Attack Graph Visualization\n===\n\nData is located in ```finaldata/```. \n\nTo get started, run ```npm i```, followed by ```npm run build``` to compile javascript source code, which is located in ```js/```.",
+        "updated_on": "2016-04-12T12:50:07.692601+00:00",
+        "created_on": "2016-03-21T16:10:33.241202+00:00",
+        "slug": "dbir",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/dbir"
+    },
+    {
+        "name": "trespass-analytics-components",
+        "readme": "# readme\n\n\n\n## setup\n\n```\nnpm i\n```\n\n\n\n## run\n\n- to run the development server\n\n```\nnpm run start\n```\n\n- to build the project\n\n```\nnpm run build\n```\n",
+        "updated_on": "2016-04-29T09:37:07.589966+00:00",
+        "created_on": "2016-04-01T08:39:40.036610+00:00",
+        "slug": "trespass-analytics-components",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/trespass-analytics-components"
+    },
+    {
+        "name": "trespass-tree-linearization",
+        "updated_on": "2016-08-04T13:01:48.739178+00:00",
+        "created_on": "2016-04-12T13:30:35.669512+00:00",
+        "slug": "trespass-tree-linearization",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/trespass-tree-linearization"
+    },
+    {
+        "name": "Tilburg",
+        "updated_on": "2017-04-06T11:33:45.799836+00:00",
+        "created_on": "2016-04-26T09:58:06.125791+00:00",
+        "slug": "tilburg",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/tilburg"
+    },
+    {
+        "name": "trespass-attack-tree-sketches",
+        "updated_on": "2016-04-29T15:19:11.343614+00:00",
+        "created_on": "2016-04-29T09:35:56.649693+00:00",
+        "slug": "trespass-attack-tree-sketches",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/trespass-attack-tree-sketches"
+    },
+    {   "projects":"Hubbub",
+        "developer":"Jakob Schlötter",
+        "name": "cor-v2",
+        "updated_on": "2016-10-04T11:59:48.603880+00:00",
+        "created_on": "2016-05-01T18:18:47.605915+00:00",
+        "slug": "cor-v2",
+        "description": "webapp as native app in ios and android with questionaires to collect user data",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/cor-v2"
+    },
+    {
+        "name": "scVlisco",
+        "updated_on": "2016-05-24T10:57:15.938480+00:00",
+        "created_on": "2016-05-03T13:31:26.116070+00:00",
+        "slug": "scvlisco",
+        "description": "Supercollider experiments for Vlisco",
+        "language": "supercollider",
+        "href": "https://bitbucket.org/LUSTlab/scvlisco"
+    },
+    {
+        "name": "security",
+        "readme": "# How to build secure stuff\n\n---\n\n## additional resources\n\n- [hacksplaining.com](https://www.hacksplaining.com/)\n\n---\n\n\n## Server setup\n\n- [Initial setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)\n\t+ Use SSH keys instead of passwords to login to server\n\t+ Don't use root user\n\t+ Create secure passwords\n\t+ [Only open ports you actually need](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands), probably:\n\t\t* 22: ssh\n\t\t* 80: http\n\t\t* 443: https\n- [How To Install Linux, Apache, MySQL, PHP ](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04)\n- Apache\n\t+ Are there tools to check for security mistakes?\n\t+ Directory listing should be off by default\n\t+ .git directory should not be public\n\t+ You should try to install SSL certificates ([guide](./ssl-certificate.md))\n- Databases\n\t+ Mysql\n\t\t* Don't use root user\n\t\t* use SequelPro (or command line) + SSH access to access mysql\n\t\t* Don't install PhpMyAdmin (or Wordpress) EVER\n\t+ Should only allow access from localhost\n\t+ What about MongoDb?\n\n\n## Git\n\n- [remove sensitive data](https://help.github.com/articles/remove-sensitive-data/)\n- Deployment w/ git\n\t+ Only when you don't need to compile source (so don't use it when you're using webpack / gulp / whatever)\n\t+ [Use deployment keys](https://confluence.atlassian.com/bitbucket/use-deployment-keys-294486051.html)\n\t+ Don't make changes to your source on the server. You shouldn't be able to commit it anyways since you're using the (read-only) deployment key (right?).\n\t+ Hide your .git directory, preferably don't put it in a public folder. You should probably make a public folder inside your git project to link Apache to:\n\t\t* /var/www/project/.git\n\t\t* /var/www/project/public/index.html\n\n\n## HTTPS\n\n- [SSL Certificates](./ssl-certificate.md)\n\n\n## Web stuff\n\n- CORS\n\t+ Use ReverseProxy to fix CORS problems... i.e. you want to request localhost:3000/api from localhost you can add the following line to your Apache config:\n\n\t`ProxyPass /api http://localhost:3000`\n\n\tNow you can make requests to localhost/api that will be proxied to localhost:3000.\n\n- HTML forms CSRF tokens\n\t+ We didn't discuss this. Not sure if this is really important\n- Authentication\n\t+ JWT (Json Web Tokens)\n\t\t* You'll send these as headers to endpoints that are protected and are meant to validate a (authenticated) user. See [jwt.io](https://jwt.io)) for more information and implementations.\n\t+ Store passwords w/ bcrypt (because reasons)\n\n\n## Project\n\n- Passwords / Api keys / et cetera in your project\n\t+ Shouln't go in Git. Obviously\n\t\t* In case you did: https://help.github.com/articles/remove-sensitive-data/\n\t+ write a .env.example / .config.example template file for passwords / keys / settings.",
+        "updated_on": "2016-06-08T13:44:43.706731+00:00",
+        "created_on": "2016-05-26T11:31:15.760055+00:00",
+        "slug": "security",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/security"
+    },
+    {
+        "name": "vlisco-experiment",
+        "updated_on": "2016-10-09T10:01:54.889037+00:00",
+        "created_on": "2016-05-26T12:26:11.396189+00:00",
+        "slug": "vlisco-experiment",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/vlisco-experiment"
+    },
+    {
+        "name": "deployment",
+        "readme": "# deployment\n\n\n## node.js\n\n- [pm2](pm2.md)\n",
+        "updated_on": "2016-06-07T09:08:13.377241+00:00",
+        "created_on": "2016-06-07T08:54:46.713988+00:00",
+        "slug": "deployment",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/deployment"
+    },
+    {
+        "name": "hubbubbCorV2Sound",
+        "updated_on": "2016-07-11T11:51:32.136950+00:00",
+        "created_on": "2016-07-08T12:45:11.248994+00:00",
+        "slug": "hubbubbcorv2sound",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/hubbubbcorv2sound"
+    },
+    {
+        "name": "cor-promo-website",
+        "updated_on": "2016-11-08T10:29:23.987610+00:00",
+        "created_on": "2016-07-11T15:42:04.828028+00:00",
+        "slug": "cor-promo-website",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/cor-promo-website"
+    },
+    {
+        "name": "cor-experiment",
+        "updated_on": "2016-08-19T12:15:15.066181+00:00",
+        "created_on": "2016-07-20T15:49:15.996179+00:00",
+        "slug": "cor-experiment",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/cor-experiment"
+    },
+    {
+        "developer": "Jakob Schlötter",
+        "name": "RaspberryPiSetup",
+        "updated_on": "2016-09-08T17:23:38.862676+00:00",
+        "created_on": "2016-08-11T13:39:17.350465+00:00",
+        "slug": "raspberrypisetup",
+        "description": "Setsup a respberry pi for permanent instalations to prevent file corruption in case of a power shortage. It also has implemented a routine of how to run your custome applications",
+        "language": "shell",
+        "href": "https://bitbucket.org/LUSTlab/raspberrypisetup",
+        "projects": ["Vlisco 1:1–Un à Un","Little Babylon"]
+    },
+
+    {   "projects":"WTHX",
+        "developer":["Jakob Schlötter", "Gabor Kerekes"],
+        "name": "mailgunMailing",
+        "updated_on": "2016-09-13T17:33:02.310764+00:00",
+        "created_on": "2016-08-24T17:51:43.457510+00:00",
+        "slug": "mailgunmailing",
+        "description": "Use mailinglists in the commandline. Python & shell scripts + member lists for maintaining mailgun mailing for WTHX",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/mailgunmailing"
+    },
+    {
+        "name": "sound-explorer",
+        "updated_on": "2016-09-28T16:05:22.813663+00:00",
+        "created_on": "2016-08-25T14:39:21.598270+00:00",
+        "slug": "sound-explorer",
+        "description": "",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/sound-explorer"
+    },
+    {
+        "name": "wthx-app",
+        "readme": "# WTHX Interactive\n\n## Installation\nTo start, run `npm install`, which will automatically install dependencies, package the source into the distribution folder, and start the server.\n\n## Socket events\n| event | description |\n|-------|-------------|\n| newpost | fires when a new post has been added, contains the post in JSON format |\n| newteams | fires when new teams have been generated, contains the new teams in JSON format |\n| filter | fires when a new filter combination is activated, contains the selected filters |\n| view | fires when a new view has been selected, contains the selected view |\n| updatedteam | fires when team has been updated, contains the team information |\n\n## REST API\n\n| endpoint | method | description | parameters |\n|-------------------|--------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| /api/upload | POST | upload new images | `image` _(required)_ the image file |\n| /api/posts | POST | make a new post | `image` image url <br/>`caption` image caption <br/>`timestamp` <br/>`table` table name <br/>`round` round number <br/>`tags` array of tags |\n| /api/posts | GET | get all posts |  |\n| /api/posts/:query | GET | search for posts | `query` _(required)_ query in the format of `table=Alpha&round=2` |\n| /api/posts/:id | PUT | update posts | `id` _(required)_ id of the post <br/>`image` image url <br/>`caption` image caption <br/>`timestamp` <br/>`table` table name <br/>`round` round number <br/>`tags` array of tags |\n| /api/posts/:id | DELETE | delete a post | `id` _(required)_ id of the post |\n| /api/teams | POST | generate new teams | `round` _(required)_ round number |\n| /api/teams | GET | get all teams (past and current) |  |\n| /api/teams/:query | GET | search for teams | `query` _(required)_ query in the format of `table=Alpha&round=2` |\n| /api/view | POST | change the view | `view` _(required)_ new view |\n| /api/filter | POST | change the filters | `filters` _(required)_ the filters to apply |",
+        "updated_on": "2016-10-10T09:29:53.840560+00:00",
+        "created_on": "2016-08-30T09:26:51.729299+00:00",
+        "slug": "wthx-app",
+        "description": "code for the back-end and remote control of on-site WTHX app that Bram wrote for WTHX 2015",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/wthx-app"
+    },
+    {
+        "name": "ofRoller",
+        "readme": "well, you also gotta get the submodule with\ngit submodule update --init --recursive \n\nif you change it, get in the path and do as if you'd be in a normal repository, then also commit in the mother repository\n",
+        "updated_on": "2016-09-17T01:27:33.483398+00:00",
+        "created_on": "2016-08-31T16:51:48.733987+00:00",
+        "slug": "ofroller",
+        "description": "",
+        "language": "c++",
+        "href": "https://bitbucket.org/LUSTlab/ofroller"
+    },
+    {
+        "name": "vliscoArduino",
+        "updated_on": "2016-09-19T16:47:57.809138+00:00",
+        "created_on": "2016-09-05T14:49:16.844164+00:00",
+        "slug": "vliscoarduino",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/vliscoarduino"
+    },
+    {
+        "name": "pages-frontend",
+        "readme": "# readme\n\nreact web application boilerplate code.\n\n\n## libs / technologies\n\n- webpack\n\t- webpack-dev-server\n- react\n- redux\n\t- redux-thunk\n- react-router\n\t- react-router-redux\n- stylus\n- autoprefixer\n\n\n\n## setup\n\n```\n./init.sh\n```\n\n\n\n## run\n\n- to run the development server\n\n```\nnpm run start\n```\n\n- to build the project\n\n```\nnpm run build\n```\n\n\n## tests\n\nuses [ava](https://github.com/sindresorhus/ava)\n\n```\nnpm run test\nnpm run test-watch\n```\n",
+        "updated_on": "2016-10-19T15:16:20.116544+00:00",
+        "created_on": "2016-09-13T16:24:26.891413+00:00",
+        "slug": "pages-frontend",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pages-frontend"
+    },
+    {
+        "projects": ["The Future devouring the past","Audi25","Little Babylon"],
+        "developer": "Jakob Schlötter",
+        "name": "scCore",
+        "updated_on": "2017-01-16T14:24:37.559059+00:00",
+        "created_on": "2016-09-19T15:17:03.436987+00:00",
+        "slug": "sccore",
+        "description": "This is a collection of classes and methods to use in supercollider in sound.",
+        "language": "supercollider",
+        "href": "https://bitbucket.org/LUSTlab/sccore"
+    },
+    {   "developer":"Jakob Schlöter",
+        "projects":"Hubbub",
+        "name": "soundplayer",
+        "updated_on": "2016-09-23T17:12:46.398804+00:00",
+        "created_on": "2016-09-22T08:34:58.594205+00:00",
+        "slug": "soundplayer",
+        "description": "play sounds in java",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/soundplayer"
+    },
+    {
+        "projects": ["Pages Website"],
+        "developer": ["Amir Houieh" "Gabor Kerekes"],
+        "name": "Pages-Pdf",
+        "readme": "### What is this repository for? ###\n\npdf renderer using electron\n\nnecessary, because wkhtmltopdf does not support `@pages` rules, which are essential for generating layouts for print-on-demand",
+        "updated_on": "2017-03-31T12:50:01.107567+00:00",
+        "created_on": "2016-09-27T13:07:28.868832+00:00",
+        "slug": "pages-pdf",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pages-pdf"
+    },
+    {
+        "name": "lustlab.bitbucket.org",
+        "readme": "This is the research site\n",
+        "updated_on": "2016-10-18T17:24:34.247889+00:00",
+        "created_on": "2016-10-18T09:55:05.889053+00:00",
+        "slug": "lustlab.bitbucket.org",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/lustlab.bitbucket.org"
+    },
+    {
+        "developer": "Jakob Schlötter",
+        "projects": ["knowledgebase"],
+        "name": "gulp-webapp-starter",
+        "readme": "Gulp Web Starter\n\n## what?\na web starter repository.\nnothing fancy.\nupside: it works.\n\n## why?\ni couldn't get any of the other webapp starters to run with the installation instructions provided.\n\n## installation\n```shell\nnpm install\ngulp\nopen http://localhost:9000/\n```",
+        "updated_on": "2016-10-18T13:28:13.020995+00:00",
+        "created_on": "2016-10-18T13:21:16.672125+00:00",
+        "slug": "gulp-webapp-starter",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/gulp-webapp-starter",
+
+    },
+    {
+        "name": "server-migration",
+        "readme": "\n### What is this repository for? ###\n\nthis repo exists to document and keep track of issues relating to the server-migration process\n\n\n\n### How do I get set up? ###\n\nLogin:\n`ssh serveradmin@lust.nl@lust.nl`\n\nProjects are located at `/home/38758/users/.home/domains/`\n\n\n#### Use rsync\nCustomize the following script to copy a remote folder to a local one or vice versa.\n\n`excludes.txt` should contain a list of directory or file names that should not be copied.\n\n\nUsing the `--dry-run` option will only show the output of the program, but will not make any changes. Disable this when running the script `FOR REAL™`.\n\nsave this script to a file eg. `sync.sh`, do `chmod +x sync.sh` (make it executable), run it `./sync.sh`\n\n```\n#!/usr/bin/env bash\n\nSOURCE=\"serveradmin@lust.nl@lust.nl:/home/38758/users/.home/domains/\"\nTARGET='./archive'\nEXCLUDE='./excludes.txt'\n\nfunction sync(){\n    BLUE='\\033[0;34m'\n    NC='\\033[0m'\n    echo -e \"${BLUE}rsyncing ${1} -> ${2}${NC}\"\n    rsync --exclude-from=${EXCLUDE} --archive --dry-run --compress --delete --ignore-existing  --verbose --partial --progress $1 $2\n}\n\n\nmkdir -p ${TARGET}\nsync  ${SOURCE} ${TARGET}\n```\n\n# MAKE SURE YOUR LOCAL COPY OF THE PROJECTS IS NOT CHECKED INTO THIS REPO\n\n\n\n### Useful commands ###\n\nshow folders and their size in cwd sorted by size\n```\ndu -hsx * | sort -rh\n```\n\n\n\n\n\n### Who do I talk to? ###\n\n* Amir & Gabor\n",
+        "updated_on": "2016-12-05T13:21:37.431617+00:00",
+        "created_on": "2016-11-03T09:16:49.517112+00:00",
+        "slug": "server-migration",
+        "description": "this repo exists only to document and keep track of issues relating to the server-migration process",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/server-migration"
+    },
+    {
+        "name": "pagesmagazine.net-cms",
+        "readme": "## CMS for pagesmagazine.net\n\n\n### setup\n- create storage folder at project root with the following structure:\n```\nstorage\n├── app         (where converted, resized etc. files will be)\n└── owncloud    (where files synced with owncloud will be)\n```\n- create .env file with the following contents:\n```\nPORT=3000\nWP_DEV_PORT=3001\nHOST=0.0.0.0\nOWNCLOUD_STORAGE=/absolute/path/to/storage/owncloud\nAPP_STORAGE=/absolute/path/to/storage/app\nMONGO_URL=mongodb://localhost/pages-magazine\nLOCAL_DB_NAME=pages-magazine\nSESSION_SECRET=very secret much security*\n```\n\n*generate `SESSION_SECRET` by `require('crypto').randomBytes(32).toString('hex')`\n\n- `npm install`\n- `npm run dev-database` to create local databse with all collections in development \n- `npm run dev` to run in development\n- `npm run build` to build\n- `npm start` to run in production\n\n### create user\n- `npm run __createuser <username> <email@example.com> <password> <ROLE>`\n- for example `npm run __createuser Nasrin nasrin@pagesmagazine.net liuhar34sln ADMIN`\n\n### includes:\n- rest api (shared with frontend)\n- UI\n- hooks to emails and owncloud\n\n\n### Technology\n  - Backend (Nodejs/Express)\n  - Frontend (React)\n  \n  \n  \n### create new users \n```\n docker exec -it 8f13b0cb9861 bash\n export PATH=$PATH:/app/.heroku/node/bin\n cd /app\n source .env\n npm run __create-users\n```\n\n\n[link to timeline](webcal://p19-calendars.icloud.com/published/2/ux2X7H_gTfWfkyC_Q0qx776peg_46UpKU69YwpDJFSIhxZhLzrhFl4whCJw65jN5gX6bJEpp4POecK_fpfFrD8tXSd0b_VzP8WiZwRoiPSo)",
+        "updated_on": "2017-05-23T16:29:13.621984+00:00",
+        "created_on": "2016-11-08T11:11:11.529547+00:00",
+        "slug": "pagesmagazine.net-cms",
+        "description": "It is a rest api build with express and react (shared with front-end)",
+        "language": "nodejs",
+        "href": "https://bitbucket.org/LUSTlab/pagesmagazine.net-cms"
+    },
+    {
+        "name": "vrServer",
+        "updated_on": "2016-12-14T23:07:30.595509+00:00",
+        "created_on": "2016-11-11T15:52:27.717178+00:00",
+        "slug": "vrserver",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/vrserver"
+    },
+    {
+        "projects":"The Future devouring the past",
+        "name": "SensorOSC",
+        "updated_on": "2017-01-25T11:39:47.778231+00:00",
+        "created_on": "2016-11-22T11:59:29.036179+00:00",
+        "slug": "sensorosc",
+        "description": "A tool to read sensor data from smartphones and broadcast it to the network",
+        "language": "unityscript",
+        "href": "https://bitbucket.org/LUSTlab/sensorosc"
+    },
+    {
+        "name": "scCaDance",
+        "updated_on": "2017-02-01T15:17:49.317247+00:00",
+        "created_on": "2016-12-15T16:25:50.716369+00:00",
+        "slug": "sccadance",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/sccadance"
+    },
+    {
+        "name": "washerDance",
+        "updated_on": "2017-02-27T11:28:11.699652+00:00",
+        "created_on": "2016-12-20T10:17:16.966909+00:00",
+        "slug": "washerdance",
+        "description": "receive osc, send out to artnet",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/washerdance"
+    },
+    {
+        "name": "pagesmagazine.net-frontend",
+        "readme": "\n\n\n## Build\n```npm install```\n\n## Run in development mode\n```npm run dev```\n\n## Run in production mode\n```npm run prod```\n\n\n\n\n\n",
+        "updated_on": "2017-05-19T19:43:01.358291+00:00",
+        "created_on": "2017-01-06T17:32:50.894770+00:00",
+        "slug": "pagesmagazine.net-frontend",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pagesmagazine.net-frontend"
+    },
+    {
+        "name": "indexer",
+        "readme": "# Indexer\nIndexer is an application that generates document maps and annotates articles.\n\nIndexer maintains its persistent state using MapDB 3.0.x, its data is stored in indexer.mapdb\n\n## Running Indexer\n\nIndexer is packaged in a single jar distribution. Running it requires the Java 8 runtime to be installed.\n\n```\njava -jar indexer.jar server indexer.yaml\n```\n\n## Running Indexer on CDA\n\nSame as the normal setup. Edit the `indexer-cda.yaml` file to set the masterUrl correctly, it should point to the indexer running on the CMS\n\n```\njava -jar indexer.jar server indexer-cda.yaml\n```\n\n## Running Indexer as a service\n\n--to be written--\n\n# API\n \nIndexer comes with a simple REST-ish API.\nThe API is intended to be used from within a facading application, proxying or otherwise exposing the API to the world is not advisory.\n\n## End-point Index\n\n```\nGET     /map                -- returns all the data needed to draw the map\nGET     /map/build-map      -- rebuilds the map\nGET     /search/{id-or-slug}        -- retrieves most relevant artciles for article with {id-or-slug}\n\nPOST    /articles           -- add a new article\nDELETE  /articles/{id}      -- remove an article\nPUT     /articles/{id}      -- update an article\nGET     /articles/{id}      -- retrieves an article\n\nGET     /entities           -- lists all entities\nPOST    /entities           -- adds a new entity\nPUT     /entities/{id}      -- updates an entity\nDELETE  /entities/{id}      -- deletes an entity\n\n```\n\n## Map\n\n```\nGET /map\n```\n\n\n## Search\n\nThe search API provides functionality to search for semantically relevant articles.\n\nTo search for relevant articles one requests:\n```\nGET http://<host>/search/id/{id}\nGET http://<host>/search/slug/{slug}\n```\n\nOptionally one can add requests argument `?count={count}` to control the number of articles in the response, the default count is set to 5.\n\nThe response is a JSON encoded object\n```!javascript \nResponse = [\n    {\n        id: <[UUID as string]>      // internal use \n        originalId: <string>        // the id as used in the AUFI database\n        slug: <string>              // slug as used in AUFI database\n        title: <string>             // title of the article\n        x: <number>                 // the x position in the article map\n        y: <number>                 // the y position in the article map\n    }\n]\n```\n\n \n## Entities\n\nEntities are used to annotate articles. Indexer stores entities.\n\n#### Entity model\n\n```!javascript\nEntity {\n    id: <UUID as string>\n    parent: <UUID as string | null>     // optional\n    name: <string>,\n    nameCI: <string | null>,            // optional; filled in by back-end\n    synonyms: <[string] | []>,          // optional\n    string type: <string | null>        // optional\n    string subtype: <string | null>     // optional\n    stemmed: <boolean>\n    caseSensitive: <boolean>        \n}\n```\n\n#### Listing entities\n\nTo get a a full list of entities one requests\n```\nGET http://<host>/entities\n```\n\nThe response is a JSON encoded list of `Entity` objects \n\n#### Adding an entity\nTo add an entity to the entity-base one posts a JSON encoded `entity` object to the API\n```\nPOST http://<host>/entities\n```\n\nThe response will be a JSON encoded object with the `id` field set. The request will fail when the id is set or when the supplied JSON is malformed.\n\n#### Updating an entity\n\nTo update an entity one posts a JSON encoded `entity` object to the API\n\n```\nPUT http://<host>/entities/{id}\n```\n\nThe request will fail when the entity identified by `id` does not exist, when the path `id` does not match the object `id`, or when the supplied JSON is malformed \n\n#### Deleting an entity\n\nDeleting an `entity` identified by `id` is performed by sending the request: \n\n```\nDELETE http://<host>/entities/{id}\n```\n\nThe request will fail when there is no entity for the given `id` is found.\n\n\n## Articles\n\nAfter adding or deleting an article the `/map/build-map` end-point needs to be called\n\n#### Article Model \n```javascript\nArticle {\n    uuid: <UUID as string>,\n    subtitle: String,\n    theme: String,  \n    id: String,             // -- the article id in the AUFI database\n    text: String\n    slug: String            // -- the slug in the AUFI database\n    publicationDate: Date   // -- unix timestamp    \n}\n```\n\n#### Adding an article\n\n```\nPOST http://<host>/articles\n```\n\n#### Deleting an article\n\n\n```\nDELETE http://<host>/articles\n```\n",
+        "updated_on": "2017-05-03T12:41:46.356316+00:00",
+        "created_on": "2017-02-13T16:03:46.244185+00:00",
+        "slug": "indexer",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/indexer"
+    },
+    {
+        "name": "pages-syncthing",
+        "readme": "istepanov/syncthing\n===================\n\n[![Docker Stars](https://img.shields.io/docker/stars/istepanov/syncthing.svg)](https://hub.docker.com/r/istepanov/syncthing/)\n[![Docker Pulls](https://img.shields.io/docker/pulls/istepanov/syncthing.svg)](https://hub.docker.com/r/istepanov/syncthing/)\n[![Docker Build](https://img.shields.io/docker/automated/istepanov/syncthing.svg)](https://hub.docker.com/r/istepanov/syncthing/)\n[![Layers](https://images.microbadger.com/badges/image/istepanov/syncthing.svg)](https://microbadger.com/images/istepanov/syncthing)\n[![Version](https://images.microbadger.com/badges/version/istepanov/syncthing.svg)](https://microbadger.com/images/istepanov/syncthing)\n[![Join the chat at https://gitter.im/istepanov/docker-syncthing](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/istepanov/docker-syncthing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)\n\n[Syncthing](http://syncthing.net/) Docker image\n\n### How to run\n\nSimpliest way to run this container is by using [docker-compose.yml](docker-compose.yml) file. Simply run:\n\n    wget https://raw.githubusercontent.com/istepanov/docker-syncthing/master/docker-compose.yml\n    docker-compose up -d\n\nThen access Syncthing Web UI at [http://localhost:8384/]().\n\nTo update the container, run:\n\n    docker-compose pull\n    docker-compose up -d\n\nYou can also start the container manually without using Docker Compose:\n\n    # Container requires 2 volumes: for config and for data.\n    CONFIG_VOLUME='syncthing-config'\n    DATA_VOLUME='syncthing-data'\n    CONTAINER_NAME='syncthing'\n\n    docker run -d \\\n        --name $CONTAINER_NAME \\\n        --restart always \\\n        -p 8384:8384 -p 22000:22000 -p 21027:21027/udp \\\n        -v $CONFIG_VOLUME:/home/syncthing/.config/syncthing \\\n        -v $DATA_VOLUME:/home/syncthing/Sync \\\n        istepanov/syncthing\n\n_Note_: `--restart always` (or `--restart on-failure` or `--restart unless-stopped`) is required because Syncthing restarts itself during auto-update. Without this option container just stops after first update.\n\n### Enabling HTTPS for Web UI\n\nThe image itself tends to be minimal and doesn't provide any HTTPS functionality. If you want to have a SSL connection between your browser and Syncthing Web UI, you need to put a proxy container that will handle HTTPS connections.\n\nThe easiest way to do it is by using Let's Encrypt certifcates and 3 additional containers: [official Nginx image](https://hub.docker.com/_/nginx/), [jwilder/docker-gen](https://github.com/jwilder/docker-gen) image to auto-generate Nginx configs and [jrcs/letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) image to auto-generate/auto-renew SSL certificates. To orchestrate all containers, we'll use [docker-compose-https.yml](docker-compose-https.yml) file:\n\n    wget https://raw.githubusercontent.com/istepanov/docker-syncthing/master/docker-compose-https.yml\n\n    # before launching, we need to prepare 2 docker volumes:\n    docker volume create --driver local --name certs\n    docker volume create --driver local --name nginx-templates\n\n    # download nginx template into \"nginx-templates\" volume\n    docker run --rm -v nginx-templates:/tmp/nginx-templates alpine /bin/sh -c 'apk add --no-cache curl ca-certificates && curl -o /tmp/nginx-templates/nginx.tmpl https://gist.githubusercontent.com/istepanov/6c19d1e519196e9b74f76344353fe837/raw/fc8784d1cbc8ad56047b10630b68c1830859bf63/nginx.tmpl'\n\n    # Setup env vars that will be used by Docker Compose file.\n    # SYNCTHING_HOSTNAME must be accessible from outside, otherwise SSL certificate won't be generated.\n    # Make sure port 80 is open and the domain name is resolvable.\n    # (this is an example, replace this with real values)\n    export SYNCTHING_HOSTNAME='syncthing.myserver.host'\n    export LETSENCRYPT_EMAIL='my@email.host'\n\n    docker-compose -f docker-compose-https.yml up -d\n\nMake sure you set `LETSENCRYPT_EMAIL` and `LETSENCRYPT_EMAIL` env vars before running Docker Compose commands. You can also edit `docker-compose-https.yml` and replace these vars with real values.\n\n",
+        "updated_on": "2017-02-23T18:40:39.930275+00:00",
+        "created_on": "2017-02-23T18:40:05.115857+00:00",
+        "slug": "pages-syncthing",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pages-syncthing"
+    },
+    {
+        "name": "Max tcpserver plugin",
+        "updated_on": "2017-03-01T16:43:00.466375+00:00",
+        "created_on": "2017-03-01T16:43:00.193739+00:00",
+        "slug": "max-tcpserver-plugin",
+        "description": "",
+        "language": "c",
+        "href": "https://bitbucket.org/LUSTlab/max-tcpserver-plugin"
+    },
+    {
+        "name": "mocap",
+        "updated_on": "2017-03-01T16:47:07.905224+00:00",
+        "created_on": "2017-03-01T16:46:08.537821+00:00",
+        "slug": "mocap",
+        "description": "found on an nuc. here for backup",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/mocap"
+    },
+    {
+        "name": "pagesmagazine.net-cloud",
+        "readme": "A NodeJs app: web file manager for pages storage. \nwrapper around [cloudcmd](http://cloudcmd.io/).\n## run in : development\n`npm run dev`\n\n## run in : production\n`npm run build && node run start`\n\n## env variables\nFILE_SYNC_STORAGE:      /storage/filesync\nPASSWORD:              somepassword\nUSERNAME:              pages\n",
+        "updated_on": "2017-05-15T12:40:30.965767+00:00",
+        "created_on": "2017-03-02T17:23:50.013888+00:00",
+        "slug": "pagesmagazine.net-cloud",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/pagesmagazine.net-cloud"
+    },
+    {
+        "name": "caries",
+        "updated_on": "2017-03-03T16:20:50.380994+00:00",
+        "created_on": "2017-03-03T16:20:50.324433+00:00",
+        "slug": "caries",
+        "description": "bluetooth experiments with tinyb\r\nLINUX ONLY",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/caries"
+    },
+    {
+        "projects": ["Karel Martens Installation"],
+        "developer": "Edwin Jakobs",
+        "name": "glyphplay",
+        "updated_on": "2017-05-19T12:39:01.195315+00:00",
+        "created_on": "2017-03-06T13:16:23.099098+00:00",
+        "slug": "glyphplay",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/glyphplay"
+    },
+    {
+        "name": "mechatype",
+        "readme": "IntelliJ 2016.3 (community edition is fine)\nKotlin plugin \nMaven plugin (should be installed by default)\n\nimport the .pom in IntelliJ\nrun (then edit the configuration to set the startup directory to MODULE_DIR)\n    \nBuilding the .app\nFrom the maven projects tab (on the left in intellij), Mechawriter -> Lifecycle -> package\nThere is a quirk in the .app builder tooling, you have to go to target/mechawriter-1.0-SNAPSHOT, copy the data folder, show package contents of the .app and drop it in the root\nYou now have a working .app",
+        "updated_on": "2017-04-03T20:35:12.000646+00:00",
+        "created_on": "2017-03-07T11:34:09.936543+00:00",
+        "slug": "mechatype",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/mechatype"
+    },
+    {
+        "name": "emplorer",
+        "updated_on": "2017-03-30T16:29:21.769221+00:00",
+        "created_on": "2017-03-27T15:29:16.290109+00:00",
+        "slug": "emplorer",
+        "description": "",
+        "language": "kotlin",
+        "href": "https://bitbucket.org/LUSTlab/emplorer"
+    },
+    {
+        "name": "panel",
+        "updated_on": "2017-04-09T12:12:45.819635+00:00",
+        "created_on": "2017-03-30T12:15:51.062540+00:00",
+        "slug": "panel",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/panel"
+    },
+    {
+        "name": "Citycloud",
+        "updated_on": "2017-05-31T17:25:24.678774+00:00",
+        "created_on": "2017-03-30T12:54:27.189532+00:00",
+        "slug": "citycloud",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/citycloud"
+    },
+    {
+        "name": "xrndr-syphon",
+        "readme": "```\nvoid setup() {\n  syphon = SyphonServer(\"example\");\n}\n\nvoid draw() {\n  syphon.bindTarget();\n  // draw stuff \n  syphon.unbindTarget();\n}\n\n\n```",
+        "updated_on": "2017-04-03T15:58:33.689825+00:00",
+        "created_on": "2017-04-03T15:55:07.709641+00:00",
+        "slug": "xrndr-syphon",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/xrndr-syphon"
+    },
+    {
+        "name": "asfamc",
+        "readme": "# README #\n\nThis is (or rather will be) a parser for ASF/AMC files a.k.a. Motion Capture data files.\n\n\n### What is this repository for? ###\n\n* first of all for the choreographic coding lab workshop\n\n### How do I get set up? ###\n\n* easily\n\n### Is it done yet? ###\n\n* no\n\n### Contribution guidelines ###\n\n* don't\n\n### Who do I talk to? ###\n\n* Jakob",
+        "updated_on": "2017-04-05T12:25:09.392980+00:00",
+        "created_on": "2017-04-05T10:41:56.608249+00:00",
+        "slug": "asfamc",
+        "description": "Asf/Amc parsing\r\naka dealing with motion capture data",
+        "language": "java",
+        "href": "https://bitbucket.org/LUSTlab/asfamc"
+    },
+    {
+        "name": "aufi-map",
+        "readme": "##setup\n\nyou need node and npm installed.\n\n1. clone this repository.\n2. run `npm install`\n\n\n##development\n\n\nrelevant code is in `src/mindmap`.\n\n\nstart webpack dev server:\n\n`npm run dev`\n\nvisit localhost:3000. page will reload on file changes in the src folder.\nfor more information look at webpack/dev.config.js\n\n\n\n##build\n`npm run build`\n\nthis will create a js and css bundle from `src/mindmap` in the `dist` directory.\nfor more information look at webpack/prod.config.js\n\nthe sandbox folder is there to check if the build worked properly. copy the js and css files from dist/ to sandbox/, replace their references in the html file, then `cd sandbox && python -m SimpleHTTPServer 8080`, visit localhost:8080 and see if the map is properly rendered.\n\n##publish\n\n1. create an app password for your bitbucket account with write access to repositories. you can do so at `https://bitbucket.org/account/user/<your-bitbucket-username>/app-passwords`. make note of the password that will pop up. [more info](https://confluence.atlassian.com/bitbucket/app-passwords-828781300.html)\n2. create a `.env` file at the root of the directory, with the following contents: `export BB_AUTH_STRING=<your-bitbucket-username>:<your-app-password>` for example: `export BB_AUTH_KEY=krks:$uP3r$3Cr3tPa$$w0rD`\n\n3. now you can hopefully run `npm run publish` which will create a build and upload it to the downloads section of the repository.\n4. the build should be available now at https://bitbucket.org/LUSTlab/aufi-map/downloads/?tab=downloads as `build.tar.gz`\n\n\n##usage\n\nthe map attaches itself to the window through a `renderMindMap` function that expects a configuration object as an argument.\n\nthe map can be drawn in two different modes: default and `context`. the default mode is the one intended to be used on the front page, `context` mode is to be used for the small map next to an article to show neighbouring articles.\n\n###config\n\n####`data` object\nobject\nmap data\n\n####`targetNode` DOM node\nDOM node render target, eg. document.getElementById('mindMapContainer').\nthe map will fill up the available space in this node.\n\n\n####`colorTheme` string\ncan  either be 'dark' or 'light'\n\n####`onArticleRequested` function\ncallback that should be run when an article is clicked, receives the article's `slug` as argument\n\n\n####`onArticleListRequested` function\ncallback that should be run when a cluster is clicked, receives an array of `slug`s as arg. will not be called in 'context' mode.\n\n\t\n####`mode` optional, string\t\neither `'context'` or undefined. if undefined, the map will render in default mode.\n\n####`contextArticleID` string\nif 'context' is specified as mode, set this to the id of the article that should be brought to the center of the map\n\n\n## examples\n**normal mode**\n```\n\nfetchData().then(mapData => {\n\trenderMindMap({\n\t    data: mapData,\n\t    targetNode: document.getElementById('mindMapContainer'), \n\t    colorTheme: 'dark',\n\t    onArticleRequested: slug => console.log(slug),\n\t    onArticleListRequested: slugs => slugs.forEach(slug => console.log(slug))\n\t});\n});\n\n\n```\n\n**context mode**\n```\n\nfetchData().then(mapData => {\n\trenderMindMap({\n\t\tdata: mapData,\n\t\tmode: 'context',\n\t\ttargetNode: document.getElementById('contextMapContainer'),\n\t\tcolorTheme: 'light',\n\t\tcontextArticleSlug: 'some-slug',\n\t\tonArticleRequested: slug => console.log(slug),\n\t});\n});\n\n```\n\n\n##contact\nGabor Kerekes\n\ngabor@lustlab.net",
+        "updated_on": "2017-04-11T14:39:58.197486+00:00",
+        "created_on": "2017-04-06T14:54:44.499263+00:00",
+        "slug": "aufi-map",
+        "description": "",
+        "language": "javascript",
+        "href": "https://bitbucket.org/LUSTlab/aufi-map"
+    },
+    {
+        "name": "videoPiano",
+        "updated_on": "2017-05-18T15:10:49.958402+00:00",
+        "created_on": "2017-04-11T12:53:02.529974+00:00",
+        "slug": "videopiano",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/videopiano"
+    },
+    {
+        "name": "scAudi",
+        "updated_on": "2017-05-18T16:10:13.464380+00:00",
+        "created_on": "2017-04-12T12:23:37.529250+00:00",
+        "slug": "scaudi",
+        "description": "",
+        "language": "supercollider",
+        "href": "https://bitbucket.org/LUSTlab/scaudi"
+    },
+    {
+        "name": "rndr-0.2.x-compute-examples",
+        "updated_on": "2017-04-24T09:20:02.981024+00:00",
+        "created_on": "2017-04-22T16:34:59.447210+00:00",
+        "slug": "rndr-0.2.x-compute-examples",
+        "description": "",
+        "language": "kotlin",
+        "href": "https://bitbucket.org/LUSTlab/rndr-0.2.x-compute-examples"
+    },
+    {
+        "name": "rndr-0.2.x-examples",
+        "readme": "# RNDR 0.2.x examples\n\nA small collection of RNDR examples in JAVA",
+        "updated_on": "2017-04-26T20:13:00.960956+00:00",
+        "created_on": "2017-04-26T20:10:03.587169+00:00",
+        "slug": "rndr-0.2.x-examples",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/rndr-0.2.x-examples"
+    },
+    {
+        "name": "aufiplayer",
+        "updated_on": "2017-05-16T17:28:53.755830+00:00",
+        "created_on": "2017-04-29T16:26:23.547455+00:00",
+        "slug": "aufiplayer",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/aufiplayer"
+    },
+    {
+        "name": "fraunhoferTestContent",
+        "readme": "# README #\n\nWhy don't you read me\n\n### What is this repository for? ###\n\ncollecting scripts in relation to the audio/fraunhofer test\n\n* adding audio tracks to videos\n* parsing the fraunhofer test content and create video from it\n\n### How do I get set up? ###\n\n* Install ffmpeg\n* Install sox\n* have a proper shell\n* start the script in the folder with content, or define folder\n* watch out the naming convention!\n\n### Features ###\n* create 2fps, 10fps, 30fps & 60 fps videos from still images\n* add audio track to video without re-encoding\n\n### To Do ###\n* add sound parsing in a similar fashion\n\n### Contribution guidelines ###\n\n* Ask jakob first\n\n### Who do I talk to? ###\n\n* Jakob\n",
+        "updated_on": "2017-05-16T16:29:23.997621+00:00",
+        "created_on": "2017-04-30T08:03:36.326133+00:00",
+        "slug": "fraunhofertestcontent",
+        "description": "script collection",
+        "language": "shell",
+        "href": "https://bitbucket.org/LUSTlab/fraunhofertestcontent"
+    },
+    {
+        "name": "Fraunhofer-TestController",
+        "updated_on": "2017-05-16T21:20:49.507217+00:00",
+        "created_on": "2017-04-30T08:31:57.537268+00:00",
+        "slug": "fraunhofer-testcontroller",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/fraunhofer-testcontroller"
+    },
+    {
+        "name": "aufikeylogger",
+        "updated_on": "2017-04-30T15:13:04.002483+00:00",
+        "created_on": "2017-04-30T15:11:28.798625+00:00",
+        "slug": "aufikeylogger",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/aufikeylogger"
+    },
+    {
+        "projects":["The Future devouring the past", "Audi25", "Little Babylon"],
+        "developer":"Jakob Schlötter",
+        "name": "oscNet",
+        "readme": "# README #\n\nA simple java library to send an recieve osc messages. Which are standardized messages send through the network ",
+        "updated_on": "2017-05-02T13:01:17.741867+00:00",
+        "created_on": "2017-05-02T13:00:40.032612+00:00",
+        "slug": "oscnet",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/oscnet"
+    },
+    {
+        "name": "rndr-1.0.x",
+        "readme": "# RNDR 1.0.x\n\nThis is very much work in progress. You are referred to use [RNDR 0.2.x](http://bitbucket.org/LUSTlab/rndr/) in production.\n\n## Goals\n\nThe goal of this project is to provide a _backwards incompatible_ but functionally equivalent implementation of RNDR in Kotlin. Attempts will be made to\ntarget JVM and Javascript.\n\nThe JVM target will use LWJGL 3 instead of JOGL. JOGL has sadly become an inactive project.",
+        "updated_on": "2017-05-07T14:41:41.774238+00:00",
+        "created_on": "2017-05-07T14:31:56.145465+00:00",
+        "slug": "rndr-1.0.x",
+        "description": "RNDR 1.0.x",
+        "language": "kotlin",
+        "href": "https://bitbucket.org/LUSTlab/rndr-1.0.x"
+    },
+    {
+        "name": "rndr-1.0.x-examples",
+        "updated_on": "2017-05-07T16:26:16.533962+00:00",
+        "created_on": "2017-05-07T16:25:19.830314+00:00",
+        "slug": "rndr-1.0.x-examples",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/rndr-1.0.x-examples"
+    },
+    {
+        "name": "audiStartScript",
+        "readme": "# START SCRIPT FOR AUDI\n\nopen startSc.ps1\nchange path in second line to match startup file\n\nopen completeKill.ps1\nchange paths to match script folder\n\nput shortcut of killAndStartup.cmd to:\nC:\\Users\\<user name>\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\killAndStartup\n\nput shortcut of killAndStartup.cmd to:\nC:\\Users\\<user name>\\Desktop\\RESETAUDIO\n",
+        "updated_on": "2017-05-13T05:56:15.846905+00:00",
+        "created_on": "2017-05-12T13:55:24.880171+00:00",
+        "slug": "audistartscript",
+        "description": "startup",
+        "language": "powershell",
+        "href": "https://bitbucket.org/LUSTlab/audistartscript"
+    },
+    {
+        "name": "Gear VR Dancer1",
+        "readme": "# Gear VR ready Unity project. Plug and build.",
+        "updated_on": "2017-05-22T09:33:09.609218+00:00",
+        "created_on": "2017-05-22T09:12:06.243108+00:00",
+        "slug": "gear-vr-dancer1",
+        "description": "",
+        "language": "unityscript",
+        "href": "https://bitbucket.org/LUSTlab/gear-vr-dancer1"
+    },
+    {
+        "name": "scStimuli",
+        "updated_on": "2017-05-26T10:18:29.257444+00:00",
+        "created_on": "2017-05-26T09:29:21.757952+00:00",
+        "slug": "scstimuli",
+        "description": "",
+        "language": "",
+        "href": "https://bitbucket.org/LUSTlab/scstimuli"
+    }
+]

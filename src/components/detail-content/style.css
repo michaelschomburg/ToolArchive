@@ -1,0 +1,200 @@
+button{
+  background-color: transparent;
+  border: none;
+}
+
+button:focus {
+  /*outline: none;*/
+
+}
+
+
+.detail-container{
+  display: flex;
+  flex-direction: row;
+  flex: 4;
+  box-sizing: border-box;
+  align-content: center;
+  height: 85vh;
+  padding: 0px 10px 0px 10px;
+}
+
+
+/*Gallery*/
+
+.gallery-container {
+  flex: 2;
+
+  /*background-color: rgb(212, 231, 219);*/
+}
+
+
+
+.gallery-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.gallery {
+  margin-top: 3.7vh;
+  overflow-y: scroll;
+  height: 75vh;
+
+
+}
+
+.images {
+  width:80vh;
+  height: auto;
+  margin-bottom: 5vh;
+  box-shadow: 2px 2px 15px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+
+
+
+
+/*Developer and tool title*/
+
+
+.dev-tool {
+  display: flex;
+  flex-direction: row;
+
+
+}
+
+.dev-name {
+  font-size: 19px;
+  font-family: 'Folio-Light', sans-serif;
+
+}
+
+
+.tool-name {
+  font-weight: bold;
+  font-size: 34px;
+  text-transform: uppercase;
+  font-family: 'Folio-Medium', sans-serif;
+
+}
+
+.dev-name p {
+  margin-top: 12px;
+  align-self: baseline;
+
+}
+
+.tool-name p {
+  margin: 0px;
+
+}
+
+
+
+/*Tool Description*/
+
+.description-container{
+  flex:1;
+  display: flex;
+  flex-direction: column;
+  font-weight: normal;
+  font-size: 15px;
+  margin: 0 0 0 0;
+  padding: 0px 5px 0px 15px;
+  font-family: 'Folio-Light', sans-serif;
+
+
+}
+
+.description-header {
+  text-align: left;
+  font-size: 18px;
+  flex:1;
+}
+
+.description h4 {
+  font-family: 'Folio-Medium', sans-serif;
+  margin: 0 0 15px 0;
+}
+
+h3 {
+  font-weight: lighter;
+  font-size: 15px;
+  margin: 0 0 0 0;
+}
+
+.description-container p {
+  margin: 0 0 0 0;
+  font-family: 'Folio-Light', sans-serif;
+}
+
+.repolink {
+
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+  font-family: 'Folio-Medium', sans-serif;
+  text-align: left;
+  flex: 1;
+  color:black;
+
+}
+
+.repolink a {
+  text-align: left;
+  margin: 10px 0px 10px 0px;
+  color: black;
+}
+
+.repolink a:hover {
+
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+.repolink a:focus {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+
+/*Backbutton*/
+
+.backbutton-container {
+  display: flex;
+  flex-direction: row;
+  flex:1;
+  align-content: flex-start;
+}
+
+
+.backbutton {
+ height: 25px;
+}
+
+.description {
+  flex:6;
+  /*background-color: green;*/
+  text-align: left;
+}
+
+.react-openclose__button {
+  font-weight: bold;
+
+  font-size: 10px;
+  margin-top: 1vh;
+  padding: 0;
+}
+
+.react-openclose__button:focus{
+  outline: none;
+}
